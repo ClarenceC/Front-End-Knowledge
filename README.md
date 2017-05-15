@@ -9,3 +9,9 @@ FE 前进路上 知识点总结
 </ul>
 </fieldset>
 </section>
+<fieldset>
+<legend>Git</legend>
+<ul>
+<li><a href="https://github.com/ClarenceC/knowledge/issues/3">Git 安装配置与知识点</a></li>
+</ul>
+</fieldset>
