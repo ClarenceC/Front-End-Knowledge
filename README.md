@@ -6,6 +6,9 @@ FE 前进路上 知识点总结
 <ul>
 <li><a href="https://github.com/ClarenceC/knowledge/issues/1">#JavaScript for of 与 for in 的区别</a></li>
 <li><a href="https://github.com/ClarenceC/knowledge/issues/2">#JavaScript 原型 和 闭包 对比和理解</a></li>
+<li><a href="https://github.com/ClarenceC/knowledge/issues/5">#JavaScript 严格模式的限制</a></li>
+<li><a href="https://github.com/ClarenceC/knowledge/issues/4">#Javascript typeof 和 instanceof 的区别和联系</a></li>
+
 </ul>
 </fieldset>
 </section>
