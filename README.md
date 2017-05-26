@@ -18,3 +18,8 @@ FE 前进路上 知识点总结
 <li><a href="https://github.com/ClarenceC/knowledge/issues/3">Git 安装配置与知识点</a></li>
 </ul>
 </fieldset>
+<legend>Other</legend>
+<ul>
+<li><a href="https://github.com/ClarenceC/knowledge/issues/11">URL URI URN区别</a></li>
+</ul>
+</fieldset>
