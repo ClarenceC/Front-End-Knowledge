@@ -16,6 +16,7 @@ FE 前进路上 知识点总结
 <legend>Git</legend>
 <ul>
 <li><a href="https://github.com/ClarenceC/knowledge/issues/3">Git 安装配置与知识点</a></li>
+<li><a href="https://github.com/ClarenceC/knowledge/issues/8">Git 学习命令与总结</a></li>
 </ul>
 </fieldset>
 <legend>Other</legend>
