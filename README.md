@@ -23,6 +23,7 @@
 <legend><h3>Other</h3></legend>
 <ul>
 <li><a href="https://github.com/ClarenceC/knowledge/issues/11">URL URI URN区别</a></li>
+<li><a href="http://www.wukai.me/2016/09/14/create-a-react-webpack-es6-project/">http://www.wukai.me/2016/09/14/create-a-react-webpack-es6-project/</a></li>
 </ul>
 </fieldset>
 <fieldset>
