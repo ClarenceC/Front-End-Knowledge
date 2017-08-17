@@ -9,6 +9,7 @@
 <li><a href="https://github.com/ClarenceC/knowledge/issues/5">#JavaScript 严格模式的限制</a></li>
 <li><a href="https://github.com/ClarenceC/knowledge/issues/4">#Javascript typeof 和 instanceof 的区别和联系</a></li>
 <li><a href="https://github.com/ClarenceC/knowledge/issues/14">#JavaScript Event 对象 preventDefault()</a></li>
+<li><a href="http://web.jobbole.com/83319/">#JS原型继承和类式继承</a></li>
 </ul>
 </fieldset>
 </section>
