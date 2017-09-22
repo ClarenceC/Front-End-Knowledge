@@ -12,6 +12,7 @@
 <li><a href="http://web.jobbole.com/83319/">JS原型继承和类式继承</a></li>
 <li><a href="http://top.css88.com/archives/717">为什么原型继承很重要 – SegmentFault</a></li>
 <li><a href="https://segmentfault.com/a/1190000000264418">JavaScript中，{}+{} 等于多少?</a></li>
+  <li><a href="http://justjavac.com/javascript/2012/05/24/can-you-explain-why-10.html">为什么 ++[[]][+[]]+[+[]] = 10？</a></li>
 </ul>
 </fieldset>
 </section>
