@@ -16,6 +16,7 @@
 <li><a href="https://dailc.github.io/2016/11/25/baseKnowlenge_javascript_jsarrayGoThrough.html">JS几种数组遍历方式以及性能分析对比</a></li>
 <li><a href="https://segmentfault.com/a/1190000005046496#articleHeader6">深入浅出JavaScript：ES6数组方法</a></li>
 <li><a href="https://juejin.im/post/5965943ff265da6c30653879">JS正则表达式完整教程（略长）老姚</a></li>
+<li><a href="http://www.ruanyifeng.com/blog/2014/10/event-loop.html">JavaScript 运行机制详解：再谈Event Loop</a></li> 
 </ul>
 </fieldset>
 </section>
