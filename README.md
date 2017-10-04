@@ -15,6 +15,7 @@
 <li><a href="http://justjavac.com/javascript/2012/05/24/can-you-explain-why-10.html">为什么 ++[[]][+[]]+[+[]] = 10？</a></li>
 <li><a href="https://dailc.github.io/2016/11/25/baseKnowlenge_javascript_jsarrayGoThrough.html">JS几种数组遍历方式以及性能分析对比</a></li>
 <li><a href="https://segmentfault.com/a/1190000005046496#articleHeader6">深入浅出JavaScript：ES6数组方法</a></li>
+<li><a href="https://juejin.im/post/5965943ff265da6c30653879">JS正则表达式完整教程（略长）老姚</a></li>
 </ul>
 </fieldset>
 </section>
