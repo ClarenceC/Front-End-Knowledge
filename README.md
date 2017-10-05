@@ -18,6 +18,7 @@
 <li><a href="https://juejin.im/post/5965943ff265da6c30653879">JS正则表达式完整教程（略长）老姚</a></li>
 <li><a href="http://www.ruanyifeng.com/blog/2014/10/event-loop.html">JavaScript 运行机制详解：再谈Event Loop</a></li>
 <li><a href="http://www.jianshu.com/p/12b9f73c5a4f">前端基础进阶（十二）：深入核心，详解事件循环机制</a></li>
+<li><a href="http://www.cnblogs.com/linxuehan/p/3623760.html">js事件冒泡和事件捕获详解</a></li>
 </ul>
 </fieldset>
 </section>
