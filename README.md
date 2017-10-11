@@ -21,6 +21,7 @@
 <li><a href="http://www.cnblogs.com/linxuehan/p/3623760.html">js事件冒泡和事件捕获详解</a></li>
 <li><a href="http://blog.qiji.tech/archives/9339">[JavaScript] DOM3级与事件一</a></li>
 <li><a href="https://www.ibm.com/developerworks/cn/web/1306_jiangjj_jsinstanceof/">JavaScript instanceof 运算符深入剖析</a></li>
+<li><a href="https://github.com/ClarenceC/Front-End-Knowledge/issues/14">JavaScript Event 对象 preventDefault()</a></li>
 </ul>
 </fieldset>
 </section>
