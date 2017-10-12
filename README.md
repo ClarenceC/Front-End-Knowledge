@@ -24,6 +24,7 @@
 <li><a href="https://github.com/ClarenceC/Front-End-Knowledge/issues/14">JavaScript Event 对象 preventDefault()</a></li>
 <li><a href="http://blog.csdn.net/u013344815/article/details/73184928">ES6箭头函数中的this绑定问题</a></li>
 <li><a href="https://segmentfault.com/a/1190000011145364">前端常见跨域解决方案（全）</a></li>
+<li><a href="http://cherryblog.site/type-checking.html">【JS】类型检测</a></li>
 </ul>
 </fieldset>
 </section>
