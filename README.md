@@ -22,6 +22,7 @@
 <li><a href="http://blog.qiji.tech/archives/9339">[JavaScript] DOM3级与事件一</a></li>
 <li><a href="https://www.ibm.com/developerworks/cn/web/1306_jiangjj_jsinstanceof/">JavaScript instanceof 运算符深入剖析</a></li>
 <li><a href="https://github.com/ClarenceC/Front-End-Knowledge/issues/14">JavaScript Event 对象 preventDefault()</a></li>
+<li><a href="http://blog.csdn.net/u013344815/article/details/73184928">ES6箭头函数中的this绑定问题</a></li>
 </ul>
 </fieldset>
 </section>
