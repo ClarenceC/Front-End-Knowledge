@@ -26,6 +26,7 @@
 <li><a href="https://segmentfault.com/a/1190000011145364">前端常见跨域解决方案（全）</a></li>
 <li><a href="http://cherryblog.site/type-checking.html">【JS】类型检测</a></li>
 <li><a href="https://www.zhihu.com/question/34183746">js中__proto__和prototype的区别和关系？</a></li>
+<li><a href="https://github.com/creeperyang/blog/issues/9">从__proto__和prototype来深入理解JS对象和原型链</a></li>
 </ul>
 </fieldset>
 </section>
