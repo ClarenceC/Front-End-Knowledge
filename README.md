@@ -27,6 +27,7 @@
 <li><a href="http://cherryblog.site/type-checking.html">【JS】类型检测</a></li>
 <li><a href="https://www.zhihu.com/question/34183746">js中__proto__和prototype的区别和关系？</a></li>
 <li><a href="https://github.com/creeperyang/blog/issues/9">从__proto__和prototype来深入理解JS对象和原型链</a></li>
+<li><a href="https://xxxgitone.github.io/2017/06/12/JavaScript%E5%85%AD%E7%A7%8D%E7%BB%A7%E6%89%BF%E6%96%B9%E5%BC%8F/">JavaScript六种继承方式</a></li>
 </ul>
 </fieldset>
 </section>
