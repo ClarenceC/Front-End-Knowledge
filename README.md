@@ -31,6 +31,7 @@
 <li><a href="http://www.cnblogs.com/wangfupeng1988/p/4001284.html">深入理解javascript原型和闭包系列</a></li>
 <li><a href="http://www.cnblogs.com/wangfupeng1988/p/6513070.html">深入理解 JavaScript 异步系列（1）——基础</a></li>
 <li><a href="http://www.ruanyifeng.com/blog/2015/04/generator.html">Generator 函数的含义与用法</a></li>
+<li><a href="https://www.zhihu.com/question/20298345">JavaScript 语句后应该加分号么？</a></li>
 </ul>
 </fieldset>
 </section>
