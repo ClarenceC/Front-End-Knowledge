@@ -29,8 +29,12 @@
 <li><a href="https://github.com/creeperyang/blog/issues/9">从__proto__和prototype来深入理解JS对象和原型链</a></li>
 <li><a href="https://xxxgitone.github.io/2017/06/12/JavaScript%E5%85%AD%E7%A7%8D%E7%BB%A7%E6%89%BF%E6%96%B9%E5%BC%8F/">JavaScript六种继承方式</a></li>
 <li><a href="http://www.cnblogs.com/wangfupeng1988/p/4001284.html">深入理解javascript原型和闭包系列</a></li>
-<li><a href="http://www.cnblogs.com/wangfupeng1988/p/6513070.html">深入理解 JavaScript 异步系列（1）——基础</a></li>
-<li><a href="http://www.ruanyifeng.com/blog/2015/04/generator.html">Generator 函数的含义与用法</a></li>
+<li><a href="http://www.cnblogs.com/wangfupeng1988/p/6513070.html">深入理解 JavaScript 异步系列（1）——基础 王福朋</a></li>
+<li><a href="http://www.cnblogs.com/wangfupeng1988/p/6515855.html">深入理解 JavaScript 异步系列（2）—— jquery的解决方案 王福朋</a></li>
+<li><a href="http://www.cnblogs.com/wangfupeng1988/p/6515779.html">深入理解 JavaScript 异步系列（3）—— ES6 中的 Promise 王福朋</a></li>
+<li><a href="http://www.cnblogs.com/wangfupeng1988/p/6532713.html">深入理解 JavaScript 异步系列（4）—— Generator</a></li>
+<li><a href="http://www.ruanyifeng.com/blog/2015/04/generator.html">Generator 函数的含义与用法 -- ruanyifeng</a></li>
+<li><a href="http://www.ruanyifeng.com/blog/2015/05/thunk.html">Thunk 函数的含义和用法 -- ruanyifeng</a></li>
 <li><a href="https://www.zhihu.com/question/20298345">JavaScript 语句后应该加分号么？</a></li>
 </ul>
 </fieldset>
