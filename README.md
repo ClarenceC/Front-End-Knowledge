@@ -32,7 +32,7 @@
 <li><a href="http://www.cnblogs.com/wangfupeng1988/p/6513070.html">深入理解 JavaScript 异步系列（1）——基础 王福朋</a></li>
 <li><a href="http://www.cnblogs.com/wangfupeng1988/p/6515855.html">深入理解 JavaScript 异步系列（2）—— jquery的解决方案 王福朋</a></li>
 <li><a href="http://www.cnblogs.com/wangfupeng1988/p/6515779.html">深入理解 JavaScript 异步系列（3）—— ES6 中的 Promise 王福朋</a></li>
-<li><a href="http://www.cnblogs.com/wangfupeng1988/p/6532713.html">深入理解 JavaScript 异步系列（4）—— Generator</a></li>
+<li><a href="http://www.cnblogs.com/wangfupeng1988/p/6532713.html">深入理解 JavaScript 异步系列（4）—— Generator 王福朋</a></li>
 <li><a href="http://www.ruanyifeng.com/blog/2015/04/generator.html">Generator 函数的含义与用法 -- ruanyifeng</a></li>
 <li><a href="http://www.ruanyifeng.com/blog/2015/05/thunk.html">Thunk 函数的含义和用法 -- ruanyifeng</a></li>
 <li><a href="http://www.ruanyifeng.com/blog/2015/05/co.html">co 函数库的含义和用法 -- ruanyifeng</a></li>
