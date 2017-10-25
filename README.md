@@ -88,5 +88,6 @@
 <legend><h3>MongoDB</h3></legend>
 <ul>
 <li><a href="http://www.mongoing.com/mongodb-advanced-pattern-design">MongoDB 进阶模式设计</a></li>
+<li><a href="http://blog.csdn.net/jsdxshi/article/details/72899803">MongoDB DBRef和手动引用（Manual References）</a></li>
 </ul>
 </fieldset>
