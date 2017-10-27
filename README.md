@@ -55,6 +55,7 @@
 <li><a href="https://github.com/ClarenceC/knowledge/issues/3">Git 安装配置与知识点</a></li>
 <li><a href="https://github.com/ClarenceC/knowledge/issues/8">Git 学习命令与总结</a></li>
 <li><a href="https://github.com/ClarenceC/knowledge/issues/8">为什么原型继承很重要 – SegmentFault</a></li>
+<li><a href="http://www.ruanyifeng.com/blog/2015/12/git-workflow.html">Git 工作流程</a></li>
 </ul>
 </fieldset>
 <fieldset>
