@@ -48,6 +48,7 @@
 <ul>
 <li><a href="http://www.jianshu.com/p/cc2bc404269b">IE盒模型和标准盒模型的区别</a></li>
 <li><a href="http://www.cnblogs.com/diantao/articles/5129867.html">Doctype是什么与浏览器模式详解（标准模式&混杂模式）</a></li>
+<li><a href="http://www.zhangxinxu.com/wordpress/2016/01/contenteditable-plaintext-only/">如何让contenteditable元素只能输入纯文本</a></li>
 </ul>
 </fieldset>
 <fieldset>
