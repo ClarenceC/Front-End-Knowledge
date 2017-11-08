@@ -65,6 +65,7 @@
 <ul>
 <li><a href="https://github.com/ClarenceC/knowledge/issues/11">URL URI URN区别</a></li>
 <li><a href="http://www.wukai.me/2016/09/14/create-a-react-webpack-es6-project/">手动创建react+babel+webpack开发环境</a></li>
+<li><a href="https://juejin.im/post/59fd94475188254115703461">前端状态管理请三思</a></li>
 </ul>
 </fieldset>
 <fieldset>
