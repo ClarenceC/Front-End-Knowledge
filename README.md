@@ -52,6 +52,12 @@
 </ul>
 </fieldset>
 <fieldset>
+<legend><h3>CSS3</h3></legend>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/iD_uC7Ah_UvZmUmiHUsKWg">我不知道你知不知道但前端NEXT知道的伪元素小技巧</a></li>
+</ul>
+</fieldset>
+<fieldset>
 <legend><h3>Git</h3></legend>
 <ul>
 <li><a href="https://github.com/ClarenceC/knowledge/issues/3">Git 安装配置与知识点</a></li>
