@@ -42,6 +42,7 @@
 <li><a href="https://github.com/nodejh/nodejh.github.io/issues/32">JavaScript 是传值调用还是传引用调用？</a></li>
 <li><a href="http://blog.csdn.net/ssisse/article/details/52335693">JavaScript 全局对象</a></li>
 <li><a href="https://github.com/ClarenceC/Front-End-Knowledge/issues/32">浏览器核心引擎名称</a></li>
+<li><a href="https://github.com/ClarenceC/Front-End-Knowledge/issues/33">Document 的重要属性和方法</a></li>
 </ul>
 </fieldset>
 </section>
