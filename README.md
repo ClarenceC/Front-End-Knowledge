@@ -45,6 +45,7 @@
 <li><a href="https://github.com/ClarenceC/Front-End-Knowledge/issues/33">Document 的重要属性和方法</a></li>
 <li><a href="http://flypursue.com/jekyll/update/2016/09/21/node-vs-element.html">Element和Node的区别你造吗？</a></li>
 <li><a href="https://www.zhihu.com/question/31576889">NodeList 和 HTMLCollection之间的关系？</a></li>
+<li><a href="http://www.ruanyifeng.com/blog/2014/03/undefined-vs-null.html">undefined与null的区别</a></li>
 </ul>
 </fieldset>
 </section>
