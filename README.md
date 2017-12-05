@@ -82,6 +82,7 @@
 <li><a href="https://juejin.im/post/59fd94475188254115703461">前端状态管理请三思</a></li>
 <li><a href="https://stackoverflow.com/questions/487258/what-is-a-plain-english-explanation-of-big-o-notation">What is a plain English explanation of “Big O” notation?</a></li>
 <li><a href="http://blog.leanote.com/post/2393350704@qq.com/%E5%90%84%E7%AE%97%E6%B3%95%E6%97%B6%E9%97%B4%E5%A4%8D%E6%9D%82%E5%BA%A6%E6%AF%94%E8%BE%83">各算法时间复杂度比较</a></li>
+<li><a href="https://segmentfault.com/a/1190000003486676">使用Benchmark.js和jsPerf分析代码性能</a></li>
 </ul>
 </fieldset>
 <fieldset>
