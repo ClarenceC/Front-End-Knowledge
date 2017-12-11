@@ -50,6 +50,7 @@
 <li><a href="http://blog.csdn.net/q1056843325/article/details/53086893">JavaScript内部属性[[Scope]]与作用域链及其性能问题</a></li>
 <li><a href="http://www.jianshu.com/p/1c01c31c0343">event对象中screenX,clientX,offsetX,pageX的区别</a></li>
 <li><a href="https://segmentfault.com/a/1190000007384055">JavaScript 中的错误处理机制</a></li>
+<li><a href="https://codeday.me/bug/20170606/23041.html">JavaScript继承：Object.create vs new</a></li>
 </ul>
 </fieldset>
 </section>
