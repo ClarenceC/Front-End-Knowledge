@@ -67,6 +67,7 @@
 <legend><h3>CSS3</h3></legend>
 <ul>
 <li><a href="https://mp.weixin.qq.com/s/iD_uC7Ah_UvZmUmiHUsKWg">我不知道你知不知道但前端NEXT知道的伪元素小技巧</a></li>
+<li><a href="https://developer.mozilla.org/zh-CN/docs/Web/Guide/CSS/Media_queries">CSS媒体查询</a></li>
 </ul>
 </fieldset>
 <fieldset>
