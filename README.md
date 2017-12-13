@@ -71,6 +71,7 @@
 <li><a href="http://www.jianshu.com/p/b8f375b52a61">CSS3 @media 用法总结</a></li>
 <li><a href="https://blog.brain1981.com/314.html">响应式布局CSS3 Media Queries中屏幕分辨率顺序写法比较</a></li>
 <li><a href="http://www.tangshuang.net/3197.html">不定元素宽高用css实现内容水平和垂直都居中</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/27186791">不定宽高div垂直水平居中问题</a></li>
 </ul>
 </fieldset>
 <fieldset>
