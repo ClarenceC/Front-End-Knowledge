@@ -55,6 +55,7 @@
 <li><a href="http://www.imooc.com/article/1848">图解Javascript this指向什么？</a></li>
 <li><a href="https://segmentfault.com/a/1190000009041008">深入理解JavaScript执行上下文、函数堆栈、提升的概念</a></li>
 <li><a href="http://www.cnblogs.com/justinw/archive/2010/04/16/1713086.html#3659123">[JavaScript]ECMA-262-3 深入解析.第一章.执行上下文</a></li>
+<li><a href="http://www.cnblogs.com/justinw/archive/2010/04/23/1718733.html">[JavaScript]ECMA-262-3 深入解析.第二章.变量对象</a></li>
 </ul>
 </fieldset>
 </section>
