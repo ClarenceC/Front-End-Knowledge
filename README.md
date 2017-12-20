@@ -57,6 +57,7 @@
 <li><a href="http://www.cnblogs.com/justinw/archive/2010/04/16/1713086.html#3659123">[JavaScript]ECMA-262-3 深入解析.第一章.执行上下文</a></li>
 <li><a href="http://www.cnblogs.com/justinw/archive/2010/04/23/1718733.html">[JavaScript]ECMA-262-3 深入解析.第二章.变量对象</a></li>
 <li><a href="http://www.cnblogs.com/justinw/archive/2010/05/04/1727295.html">[JavaScript]ECMA-262-3 深入解析.第三章.this</a></li>
+<li><a href="http://web.jobbole.com/84041/">理解JavaScript的作用域链</a></li>
 </ul>
 </fieldset>
 </section>
