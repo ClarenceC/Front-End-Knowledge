@@ -59,6 +59,8 @@
 <li><a href="http://www.cnblogs.com/justinw/archive/2010/05/04/1727295.html">[JavaScript]ECMA-262-3 深入解析.第三章.this</a></li>
 <li><a href="http://web.jobbole.com/84041/">理解JavaScript的作用域链</a></li>
 <li><a href="https://www.w3cplus.com/javascript/how-to-find-the-sum-of-an-array-of-numbers.html">JavaScript学习笔记：数组求和方法</a></li>
+<li><a href="https://stackoverflow.com/questions/1357118/event-preventdefault-vs-return-false">event.preventDefault() vs. return false
+</a></li>
 </ul>
 </fieldset>
 </section>
