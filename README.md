@@ -59,8 +59,8 @@
 <li><a href="http://www.cnblogs.com/justinw/archive/2010/05/04/1727295.html">[JavaScript]ECMA-262-3 深入解析.第三章.this</a></li>
 <li><a href="http://web.jobbole.com/84041/">理解JavaScript的作用域链</a></li>
 <li><a href="https://www.w3cplus.com/javascript/how-to-find-the-sum-of-an-array-of-numbers.html">JavaScript学习笔记：数组求和方法</a></li>
-<li><a href="https://stackoverflow.com/questions/1357118/event-preventdefault-vs-return-false">event.preventDefault() vs. return false
-</a></li>
+<li><a href="https://stackoverflow.com/questions/1357118/event-preventdefault-vs-return-false">event.preventDefault() vs. return false</a></li>
+<li><a href="http://jser.me/2013/08/20/javascript%E7%9A%84%E5%87%A0%E7%A7%8D%E4%BD%BF%E7%94%A8%E5%A4%9A%E8%A1%8C%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%96%B9%E5%BC%8F.html">javascript的几种使用多行字符串的方式</a></li>
 </ul>
 </fieldset>
 </section>
