@@ -108,6 +108,7 @@
 <li><a href="http://www.jianshu.com/p/980a2f377b50">canvas与svg特性和使用对比</a></li>
 <li><a href="https://segmentfault.com/a/1190000011154120">什么是Native、Web App、Hybrid、React Native 和 Weex？</a></li>
 <li><a href="http://www.ruanyifeng.com/blog/2017/04/css_in_js.html?20171225141337#comment-last">CSS in JS</a></li>
+<li><a href="http://www.zcfy.cc/article/an-abridged-cartoon-introduction-to-webassembly-ndash-smashing-magazine-2799.html">图说 WebAssembly</a></li>
 </ul>
 </fieldset>
 <fieldset>
