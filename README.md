@@ -62,6 +62,7 @@
 <li><a href="https://stackoverflow.com/questions/1357118/event-preventdefault-vs-return-false">event.preventDefault() vs. return false</a></li>
 <li><a href="http://jser.me/2013/08/20/javascript%E7%9A%84%E5%87%A0%E7%A7%8D%E4%BD%BF%E7%94%A8%E5%A4%9A%E8%A1%8C%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%96%B9%E5%BC%8F.html">javascript的几种使用多行字符串的方式</a></li>
 <li><a href="https://zhuanlan.zhihu.com/p/31759933">JavaScript权威面试指南</a></li>
+<li><a href="https://segmentfault.com/a/1190000012673854">19 个 JavaScript 有用的简写技术</a></li>
 </ul>
 </fieldset>
 </section>
