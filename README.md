@@ -88,6 +88,7 @@
 <li><a href="https://www.w3cplus.com/css3/line-base-placement-layout.html">CSS Grid布局：网格单元格布局</a></li>
 <li><a href="https://segmentfault.com/a/1190000012707337">前端小知识--为什么你写的height:100%不起作用？</a></li>
 <li><a href="https://www.w3cplus.com/css3/css-grid-flexbox-solving-real-world-problems.html">CSS Grid和Flexbox解决实际的布局问题</a></li>
+<li><a href="http://www.zhangxinxu.com/wordpress/2016/05/css3-width-max-contnet-min-content-fit-content/">理解CSS3 max/min-content及fit-content等width值</a></li>
 </ul>
 </fieldset>
 <fieldset>
