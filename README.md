@@ -90,6 +90,7 @@
 <li><a href="https://www.w3cplus.com/css3/css-grid-flexbox-solving-real-world-problems.html">CSS Grid和Flexbox解决实际的布局问题</a></li>
 <li><a href="http://www.zhangxinxu.com/wordpress/2016/05/css3-width-max-contnet-min-content-fit-content/">理解CSS3 max/min-content及fit-content等width值</a></li>
 <li><a href="http://ghmagical.com/article/page/id/ote3wHDxzIHS">深入CSS优先级</a></li>
+<li><a href="http://elevenbeans.github.io/2018/01/12/front-end-layout-methods/">前端布局方式汇总及概念浅析</a></li>
 </ul>
 </fieldset>
 <fieldset>
