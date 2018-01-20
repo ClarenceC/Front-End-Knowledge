@@ -147,8 +147,15 @@
 <li><a href="https://cnodejs.org/topic/504b4924e2b84515770103dd">Mongoose学习参考文档——基础篇</a></li>
 </ul>
 </fieldset>
+<fieldset>
 <legend><h3>Vue</h3></legend>
 <ul>
   <li><a href="https://github.com/pfan123/front-end-navigator/issues/1">vue数据更新,视图未更新</a></li>
+</ul>
+</fieldset>
+<fieldset>
+<legend><h3>Node</h3></legend>
+<ul>
+  <li><a href="https://cnodejs.org/topic/58eee565a92d341e48cfe7fc">2017，我们来聊聊 Node.js</a></li>
 </ul>
 </fieldset>
