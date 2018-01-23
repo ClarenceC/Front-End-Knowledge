@@ -118,6 +118,7 @@
 <li><a href="http://www.ruanyifeng.com/blog/2017/04/css_in_js.html?20171225141337#comment-last">CSS in JS</a></li>
 <li><a href="http://www.zcfy.cc/article/an-abridged-cartoon-introduction-to-webassembly-ndash-smashing-magazine-2799.html">图说 WebAssembly</a></li>
 <li><a href="http://www.qcyoung.com/2016/12/18/JavaScript%20%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95%E6%B1%87%E6%80%BB/#xuan-ze-pai-xu-selection-sort-sup-class-footnote-ref-a-href-fn-2-id-fnref-2-2-a-sup">JavaScript 排序算法汇总</a></li>
+<li><a href="http://blog.chinaunix.net/uid-26495963-id-3074603.html">原码、反码、补码，计算机中负数的表示</a></li>
 </ul>
 </fieldset>
 <fieldset>
