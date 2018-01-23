@@ -65,6 +65,7 @@
 <li><a href="https://segmentfault.com/a/1190000012673854">19 个 JavaScript 有用的简写技术</a></li>
 <li><a href="https://github.com/creeperyang/blog/issues/40">IIFE能运行的原理</a></li>
 <li><a href="https://github.com/ClarenceC/Front-End-Knowledge/issues/35">Element querySelector和querySelectorAll和matches的使用</a></li>
+<li><a href="https://www.joezimjs.com/javascript/great-mystery-of-the-tilde/">The Great Mystery of the Tilde(~)</a></li>
 </ul>
 </fieldset>
 </section>
