@@ -94,6 +94,8 @@
 <li><a href="http://www.zhangxinxu.com/wordpress/2016/05/css3-width-max-contnet-min-content-fit-content/">理解CSS3 max/min-content及fit-content等width值</a></li>
 <li><a href="http://ghmagical.com/article/page/id/ote3wHDxzIHS">深入CSS优先级</a></li>
 <li><a href="http://elevenbeans.github.io/2018/01/12/front-end-layout-methods/">前端布局方式汇总及概念浅析</a></li>
+<li><a href="https://acelibin.github.io/2017/07/03/%E5%A6%82%E4%BD%95%E4%BC%98%E9%9B%85%E7%9A%84%E5%86%99-CSS%E2%80%94%E2%80%94BEM-%E8%A7%84%E8%8C%83/">如何优雅的写 CSS —— BEM 规范</a></li>
+<li><a href="https://www.w3cplus.com/css/mindbemding-getting-your-head-round-bem-syntax.html">BEM思想之彻底弄清BEM语法</a></li>
 </ul>
 </fieldset>
 <fieldset>
