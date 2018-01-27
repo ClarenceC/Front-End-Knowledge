@@ -165,3 +165,9 @@
   <li><a href="https://cnodejs.org/topic/58eee565a92d341e48cfe7fc">2017，我们来聊聊 Node.js</a></li>
 </ul>
 </fieldset>
+<fieldset>
+<legend><h3>工具</h3></legend>
+<ul>
+  <li><a href="http://www.css88.com/doc/chrome-devtools/">Chrome 开发者工具</a></li>
+</ul>
+</fieldset>
