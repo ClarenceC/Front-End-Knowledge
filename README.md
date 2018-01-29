@@ -97,6 +97,7 @@
 <li><a href="https://acelibin.github.io/2017/07/03/%E5%A6%82%E4%BD%95%E4%BC%98%E9%9B%85%E7%9A%84%E5%86%99-CSS%E2%80%94%E2%80%94BEM-%E8%A7%84%E8%8C%83/">如何优雅的写 CSS —— BEM 规范</a></li>
 <li><a href="https://www.w3cplus.com/css/mindbemding-getting-your-head-round-bem-syntax.html">BEM思想之彻底弄清BEM语法</a></li>
 <li><a href="https://www.w3cplus.com/PostCSS/using-postcss-with-bem-and-suit-methodologies.html">PostCSS深入学习: 结合BEM和SUIT方法使用PostCSS</a></li>
+<li><a href="https://www.ibm.com/developerworks/cn/web/1512_chengfu_bem/index.html">从 BEM 谈大型项目中 CSS 的组织和管理</a></li>
 </ul>
 </fieldset>
 <fieldset>
