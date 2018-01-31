@@ -98,6 +98,7 @@
 <li><a href="https://www.w3cplus.com/css/mindbemding-getting-your-head-round-bem-syntax.html">BEM思想之彻底弄清BEM语法</a></li>
 <li><a href="https://www.w3cplus.com/PostCSS/using-postcss-with-bem-and-suit-methodologies.html">PostCSS深入学习: 结合BEM和SUIT方法使用PostCSS</a></li>
 <li><a href="https://www.ibm.com/developerworks/cn/web/1512_chengfu_bem/index.html">从 BEM 谈大型项目中 CSS 的组织和管理</a></li>
+<li><a href="http://www.cnblogs.com/mind/archive/2012/04/01/2198995.html">浅析CSS——元素重叠及position定位的z-index顺序</a></li>
 </ul>
 </fieldset>
 <fieldset>
