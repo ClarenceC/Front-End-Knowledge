@@ -66,6 +66,7 @@
 <li><a href="https://github.com/creeperyang/blog/issues/40">IIFE能运行的原理</a></li>
 <li><a href="https://github.com/ClarenceC/Front-End-Knowledge/issues/35">Element querySelector和querySelectorAll和matches的使用</a></li>
 <li><a href="https://www.joezimjs.com/javascript/great-mystery-of-the-tilde/">The Great Mystery of the Tilde(~)</a></li>
+<li><a href="https://juejin.im/entry/5a706a3451882573497934c5">你可能不知道的console</a></li>
 </ul>
 </fieldset>
 </section>
