@@ -174,3 +174,9 @@
   <li><a href="http://www.css88.com/doc/chrome-devtools/">Chrome 开发者工具</a></li>
 </ul>
 </fieldset>
+<fieldset>
+<legend><h3>性能</h3></legend>
+<ul>
+  <li><a href="http://web.jobbole.com/86713/">唯快不破：Web 应用的 13 个优化步骤</a></li>
+</ul>
+</fieldset>
