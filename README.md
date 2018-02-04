@@ -178,5 +178,6 @@
 <legend><h3>性能</h3></legend>
 <ul>
   <li><a href="http://web.jobbole.com/86713/">唯快不破：Web 应用的 13 个优化步骤</a></li>
+  <li><a href="https://github.com/alibaba/beidou/blob/master/packages/beidou-docs/articles/node-performance-optimization.md">唯快不破，让nodejs再快一点</a></li>
 </ul>
 </fieldset>
