@@ -181,3 +181,9 @@
   <li><a href="https://github.com/alibaba/beidou/blob/master/packages/beidou-docs/articles/node-performance-optimization.md">唯快不破，让nodejs再快一点</a></li>
 </ul>
 </fieldset>
+<fieldset>
+<legend><h3>方法论</h3></legend>
+<ul>
+  <li><a href="http://www.cnblogs.com/sskyy/p/8268976.html">如何有效地写算法题</a></li>
+</ul>
+</fieldset>
