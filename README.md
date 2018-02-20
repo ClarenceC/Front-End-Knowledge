@@ -69,6 +69,7 @@
 <li><a href="https://juejin.im/entry/5a706a3451882573497934c5">你可能不知道的console</a></li>
 <li><a href="https://juejin.im/post/5a725c6ff265da3e2e62d0d1">JavaScript 是如何工作的：内存管理 + 如何处理四种常见的内存泄漏</a></li>
 <li><a href="http://blog.jobbole.com/29061/">JavaScript：打破所有规则</a></li>
+<li><a href="https://bobscript.com/archives/292/">mouseenter、mouseover；mouseleave、mouseout的区别</a></li>
 </ul>
 </fieldset>
 </section>
