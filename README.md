@@ -70,7 +70,6 @@
 <li><a href="https://juejin.im/post/5a725c6ff265da3e2e62d0d1">JavaScript 是如何工作的：内存管理 + 如何处理四种常见的内存泄漏</a></li>
 <li><a href="http://blog.jobbole.com/29061/">JavaScript：打破所有规则</a></li>
 <li><a href="https://bobscript.com/archives/292/">mouseenter、mouseover；mouseleave、mouseout的区别</a></li>
-<li><a href="https://www.cnblogs.com/osfipin/p/6211468.html">jQuery选择什么版本 1.x? 2.x? 3.x?</a></li>
 </ul>
 </fieldset>
 </section>
@@ -170,6 +169,12 @@
 <legend><h3>Node</h3></legend>
 <ul>
   <li><a href="https://cnodejs.org/topic/58eee565a92d341e48cfe7fc">2017，我们来聊聊 Node.js</a></li>
+</ul>
+</fieldset>
+<fieldset>
+<legend><h3>Jquery</h3></legend>
+<ul>
+    <li><a href="https://www.cnblogs.com/osfipin/p/6211468.html">jQuery选择什么版本 1.x? 2.x? 3.x?</a></li>
 </ul>
 </fieldset>
 <fieldset>
