@@ -180,9 +180,9 @@
 </ul>
 </fieldset>
 <fieldset>
-<legend><h3>工具</h3></legend>
+<legend><h3>模块化</h3></legend>
 <ul>
-  <li><a href="http://www.css88.com/doc/chrome-devtools/">Chrome 开发者工具</a></li>
+<li><a href="https://segmentfault.com/a/1190000003003599">JS学习笔记 - 模块化</a></li>
 </ul>
 </fieldset>
 <fieldset>
@@ -196,5 +196,11 @@
 <legend><h3>方法论</h3></legend>
 <ul>
   <li><a href="http://www.cnblogs.com/sskyy/p/8268976.html">如何有效地写算法题</a></li>
+</ul>
+</fieldset>
+<fieldset>
+<legend><h3>工具</h3></legend>
+<ul>
+  <li><a href="http://www.css88.com/doc/chrome-devtools/">Chrome 开发者工具</a></li>
 </ul>
 </fieldset>
