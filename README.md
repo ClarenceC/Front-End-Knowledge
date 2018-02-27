@@ -70,6 +70,7 @@
 <li><a href="https://juejin.im/post/5a725c6ff265da3e2e62d0d1">JavaScript 是如何工作的：内存管理 + 如何处理四种常见的内存泄漏</a></li>
 <li><a href="http://blog.jobbole.com/29061/">JavaScript：打破所有规则</a></li>
 <li><a href="https://bobscript.com/archives/292/">mouseenter、mouseover；mouseleave、mouseout的区别</a></li>
+<li><a href="http://varnull.cn/yi-ci-ji-zhu-jsde-6ge-zheng-ze-fang-fa/">一次记住js的6个正则方法</a></li>
 </ul>
 </fieldset>
 </section>
