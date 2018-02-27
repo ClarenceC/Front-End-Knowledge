@@ -71,6 +71,7 @@
 <li><a href="http://blog.jobbole.com/29061/">JavaScript：打破所有规则</a></li>
 <li><a href="https://bobscript.com/archives/292/">mouseenter、mouseover；mouseleave、mouseout的区别</a></li>
 <li><a href="http://varnull.cn/yi-ci-ji-zhu-jsde-6ge-zheng-ze-fang-fa/">一次记住js的6个正则方法</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/26440626">该把JS文件放在HTML文档的那个位置</a></li>
 </ul>
 </fieldset>
 </section>
