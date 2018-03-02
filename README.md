@@ -114,6 +114,7 @@
 <li><a href="https://github.com/ClarenceC/knowledge/issues/8">Git 学习命令与总结</a></li>
 <li><a href="https://github.com/ClarenceC/knowledge/issues/8">为什么原型继承很重要 – SegmentFault</a></li>
 <li><a href="http://www.ruanyifeng.com/blog/2015/12/git-workflow.html">Git 工作流程</a></li>
+<li><a href="https://www.jianshu.com/p/ea6341224e89">Git中.gitignore的配置语法</a></li>
 </ul>
 </fieldset>
 <fieldset>
@@ -151,12 +152,6 @@
 <legend><h3>React-Router</h3></legend>
 <ul>
 <li><a href="https://segmentfault.com/a/1190000004075348#articleHeader1">深入理解 react-router 路由系统</a></li>
-</ul>
-</fieldset>
-<fieldset>
-<legend><h3>Git</h3></legend>
-<ul>
-<li><a href="https://www.jianshu.com/p/ea6341224e89">Git中.gitignore的配置语法</a></li>
 </ul>
 </fieldset>
 <fieldset>
