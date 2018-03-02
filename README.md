@@ -154,6 +154,12 @@
 </ul>
 </fieldset>
 <fieldset>
+<legend><h3>Git</h3></legend>
+<ul>
+<li><a href="https://www.jianshu.com/p/ea6341224e89">Git中.gitignore的配置语法</a></li>
+</ul>
+</fieldset>
+<fieldset>
 <legend><h3>MongoDB</h3></legend>
 <ul>
 <li><a href="http://www.mongoing.com/mongodb-advanced-pattern-design">MongoDB 进阶模式设计</a></li>
