@@ -198,6 +198,8 @@
 <ul>
   <li><a href="http://web.jobbole.com/86713/">唯快不破：Web 应用的 13 个优化步骤</a></li>
   <li><a href="https://github.com/alibaba/beidou/blob/master/packages/beidou-docs/articles/node-performance-optimization.md">唯快不破，让nodejs再快一点</a></li>
+  <li><a href="http://www.css88.com/archives/8437">JavaScript性能优化技巧：概述</a></li>
+  <li><a href="https://github.com/dwqs/blog/issues/59">[译]JavaScript 的时间消耗</a></li>
 </ul>
 </fieldset>
 <fieldset>
