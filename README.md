@@ -146,6 +146,7 @@
 <legend><h3>Webpack</h3></legend>
 <ul>
 <li><a href="https://zhuanlan.zhihu.com/p/21318102?refer=leanreact">webpack 进阶</a></li>
+<li><a href="http://www.cnblogs.com/ihardcoder/p/5623411.html">Webpack中hash与chunkhash的区别，以及js与css的hash指纹解耦方案</a></li>
 </ul>
 </fieldset>
 <fieldset>
