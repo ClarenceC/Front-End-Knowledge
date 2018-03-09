@@ -72,6 +72,7 @@
 <li><a href="https://bobscript.com/archives/292/">mouseenter、mouseover；mouseleave、mouseout的区别</a></li>
 <li><a href="http://varnull.cn/yi-ci-ji-zhu-jsde-6ge-zheng-ze-fang-fa/">一次记住js的6个正则方法</a></li>
 <li><a href="https://zhuanlan.zhihu.com/p/26440626">该把JS文件放在HTML文档的那个位置</a></li>
+<li><a href="https://aimingoo.github.io/59e31b1472c9e7b37c38321b.html">前端要给力之：语句在JavaScript中的值</a></li>
 </ul>
 </fieldset>
 </section>
