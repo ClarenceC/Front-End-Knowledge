@@ -142,6 +142,7 @@
 <legend><h3>NPM</h3></legend>
 <ul>
 <li><a href="https://github.com/ClarenceC/knowledge/issues/9">关于npm run dev和build</a></li>
+<li><a href="https://segmentfault.com/q/1010000005163089">--save-dev 与 －－save区别</a></li>
 </ul>
 </fieldset>
 <fieldset>
