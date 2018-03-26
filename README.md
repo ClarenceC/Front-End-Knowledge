@@ -75,6 +75,9 @@
 <li><a href="https://aimingoo.github.io/59e31b1472c9e7b37c38321b.html">前端要给力之：语句在JavaScript中的值</a></li>
 <li><a href="https://www.cnblogs.com/shixiaomiao1122/p/7591556.html">彻底理解浏览器缓存机制</a></li>
 <li><a href="https://veronicaf.github.io/JS-class/">JS class 对象</a></li>
+<li><a href="https://blog.csdn.net/zdwzzu2006/article/details/6047632">Js中的window.parent ,window.top,window.self 详解</a></li>
+<li><a href="http://www.zhangxinxu.com/wordpress/2017/07/js-window-self/">了解JS中的全局对象window.self和全局作用域self</a></li>
+<li><a href="http://www.cnblogs.com/wennxxin/archive/2008/10/11/1308516.html">frame,iframe,frameset之间的关系与区别</a></li>
 </ul>
 </fieldset>
 </section>
