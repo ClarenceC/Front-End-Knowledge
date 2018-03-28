@@ -141,6 +141,7 @@
 <li><a href="http://www.qcyoung.com/2016/12/18/JavaScript%20%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95%E6%B1%87%E6%80%BB/#xuan-ze-pai-xu-selection-sort-sup-class-footnote-ref-a-href-fn-2-id-fnref-2-2-a-sup">JavaScript 排序算法汇总</a></li>
 <li><a href="http://blog.chinaunix.net/uid-26495963-id-3074603.html">原码、反码、补码，计算机中负数的表示</a></li>
 <li><a href="https://www.zhihu.com/question/34074946">HTTP/2.0 相比1.0有哪些重大改进？</a></li>
+<li><a href="http://www.ruanyifeng.com/blog/2011/09/curl.html">curl网站开发指南</a></li>
 </ul>
 </fieldset>
 <fieldset>
