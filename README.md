@@ -79,6 +79,7 @@
 <li><a href="http://www.zhangxinxu.com/wordpress/2017/07/js-window-self/">了解JS中的全局对象window.self和全局作用域self</a></li>
 <li><a href="http://www.cnblogs.com/wennxxin/archive/2008/10/11/1308516.html">frame,iframe,frameset之间的关系与区别</a></li>
 <li><a href="https://www.w3cplus.com/performance/reloading/preload-prefetch-and-priorities-in-chrome.html">Preload，Prefetch 和它们在 Chrome 之中的优先级</a></li>
+<li><a href="http://www.ruanyifeng.com/blog/2015/11/ecmascript-specification.html">读懂 ECMAScript 规格</a></li>
 </ul>
 </fieldset>
 </section>
