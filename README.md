@@ -80,6 +80,7 @@
 <li><a href="http://www.cnblogs.com/wennxxin/archive/2008/10/11/1308516.html">frame,iframe,frameset之间的关系与区别</a></li>
 <li><a href="https://www.w3cplus.com/performance/reloading/preload-prefetch-and-priorities-in-chrome.html">Preload，Prefetch 和它们在 Chrome 之中的优先级</a></li>
 <li><a href="http://www.ruanyifeng.com/blog/2015/11/ecmascript-specification.html">读懂 ECMAScript 规格</a></li>
+<li><a href="http://harttle.land/2015/10/01/javascript-dom-api.html">原生JavaScript的DOM操作汇总</a></li>
 </ul>
 </fieldset>
 </section>
