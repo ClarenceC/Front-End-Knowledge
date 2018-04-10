@@ -160,6 +160,7 @@
 <li><a href="http://www.cnblogs.com/ihardcoder/p/5623411.html">Webpack中hash与chunkhash的区别，以及js与css的hash指纹解耦方案</a></li>
 <li><a href="http://blog.csdn.net/zshake/article/details/72311617">简单的webpack- 引入bootstrap</a></li>
 <li><a href="https://visonforcoding.github.io/webpackyin-ru-bootstrap.html">webpack引入bootstrap</a></li>
+<li><a href="https://github.com/dwqs/blog/issues/60">Webpack 4 不完全迁移指北</a></li>
 </ul>
 </fieldset>
 <fieldset>
