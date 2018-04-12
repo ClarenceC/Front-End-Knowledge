@@ -176,6 +176,7 @@
 <legend><h3>React-Router</h3></legend>
 <ul>
 <li><a href="https://segmentfault.com/a/1190000004075348#articleHeader1">深入理解 react-router 路由系统</a></li>
+<li><a href="https://github.com/mrdulin/blog/issues/42">react-router和react-router-dom的区别</a></li>
 </ul>
 </fieldset>
 <fieldset>
