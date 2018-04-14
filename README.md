@@ -146,6 +146,7 @@
 <li><a href="https://www.zhihu.com/question/34074946">HTTP/2.0 相比1.0有哪些重大改进？</a></li>
 <li><a href="http://www.ruanyifeng.com/blog/2011/09/curl.html">curl网站开发指南</a></li>
 <li><a href="http://mobilesite.github.io/2016/05/08/eslint_application/">ESLint的使用</a></li>
+<li><a href="https://segmentfault.com/a/1190000009077086">使用 VSCode + ESLint 实践前端编码规范</a></li>
 </ul>
 </fieldset>
 <fieldset>
