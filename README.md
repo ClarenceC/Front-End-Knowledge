@@ -167,23 +167,6 @@
 </ul>
 </fieldset>
 <fieldset>
-<legend><h3>React</h3></legend>
-<ul>
-<li><a href="https://github.com/ClarenceC/knowledge/issues/15">Unexpected token &lt Error</a></li>
-<li><a href="https://github.com/ClarenceC/knowledge/issues/12">React 组件的生命周期</a></li>
-<li><a href="http://taobaofed.org/blog/2016/11/17/react-components-communication/">React 组件间通讯</a></li>
-<li><a href="https://www.cnblogs.com/szhshp/p/8006093.html">[干货]一篇笔记入门React</a></li>
-<li><a href="https://segmentfault.com/a/1190000008402834">谈一谈创建React Component的几种方式</a></li>
-</ul>
-</fieldset>
-<fieldset>
-<legend><h3>React-Router</h3></legend>
-<ul>
-<li><a href="https://segmentfault.com/a/1190000004075348#articleHeader1">深入理解 react-router 路由系统</a></li>
-<li><a href="https://github.com/mrdulin/blog/issues/42">react-router和react-router-dom的区别</a></li>
-</ul>
-</fieldset>
-<fieldset>
 <legend><h3>MongoDB</h3></legend>
 <ul>
 <li><a href="http://www.mongoing.com/mongodb-advanced-pattern-design">MongoDB 进阶模式设计</a></li>
