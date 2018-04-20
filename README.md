@@ -165,6 +165,8 @@
 <li><a href="http://blog.csdn.net/zshake/article/details/72311617">简单的webpack- 引入bootstrap</a></li>
 <li><a href="https://visonforcoding.github.io/webpackyin-ru-bootstrap.html">webpack引入bootstrap</a></li>
 <li><a href="https://github.com/dwqs/blog/issues/60">Webpack 4 不完全迁移指北</a></li>
+<li><a href="https://github.com/dwqs/blog/issues/60">Webpack-dev-server源码与原理深入分析</a></li>
+<li><a href="https://segmentfault.com/a/1190000009266900">基于webpack的前后端分离开发环境实战</a></li>
 </ul>
 </fieldset>
 <fieldset>
