@@ -83,6 +83,7 @@
 <li><a href="http://harttle.land/2015/10/01/javascript-dom-api.html">原生JavaScript的DOM操作汇总</a></li>
 <li><a href="http://www.imooc.com/article/7393">如何用原生JS实现图片轮播</a></li>
 <li><a href="https://zhuanlan.zhihu.com/p/26794822">js 中的多个连续的箭头函数与柯里化</a></li>
+<li><a href="https://github.com/woai30231/webDevDetails/blob/master/18/readme.md">怎么理解js中的防抖和节流、限制调用频率</a></li>
 </ul>
 </fieldset>
 </section>
