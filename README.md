@@ -226,3 +226,9 @@
   <li><a href="http://www.css88.com/doc/chrome-devtools/">Chrome 开发者工具</a></li>
 </ul>
 </fieldset>
+<fieldset>
+<legend><h3>职业规划</h3></legend>
+<ul>
+  <li><a href="https://juejin.im/post/5b36dda451882574b62a0b84?from=groupmessage">浅谈程序员职业生涯规划</a></li>
+</ul>
+</fieldset>
