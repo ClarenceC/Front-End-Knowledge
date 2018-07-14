@@ -226,6 +226,7 @@
 <ul>
   <li><a href="http://www.css88.com/doc/chrome-devtools/">Chrome 开发者工具</a></li>
   <li><a href="http://www.cnblogs.com/thousfeet/p/7840932.html">Gitkraken 工具教程</a></li>
+  <li><a href="https://phabricator.webfuns.net/book/phabricator/article/arcanist/">Arcanist 用户指南</a></li>
 </ul>
 </fieldset>
 <fieldset>
