@@ -132,6 +132,7 @@
 <li><a href="http://www.ruanyifeng.com/blog/2015/12/git-workflow.html">Git 工作流程</a></li>
 <li><a href="https://www.jianshu.com/p/ea6341224e89">Git中.gitignore的配置语法</a></li>
 <li><a href="http://blog.csdn.net/north1989/article/details/53471439">Git--将已有的项目添加到github</a></li>
+<li><a href="https://blog.csdn.net/itfootball/article/details/44154121">git中利用rebase来压缩多次提交</a></li>
 </ul>
 </fieldset>
 <fieldset>
