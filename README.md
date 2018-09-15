@@ -192,7 +192,7 @@
 <fieldset>
 <legend><h3>框架</h3></legend>
 <ul>
-  <li><a href="http://web.jobbole.com/86713/">Weex 踩坑记</a></li>
+  <li><a href="https://github.com/ClarenceC/Front-End-Knowledge/issues/38">Weex 踩坑记</a></li>
 </ul>
 </fieldset>
 <fieldset>
