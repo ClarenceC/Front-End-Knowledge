@@ -87,6 +87,7 @@
 <li><a href="https://www.zybuluo.com/EncyKe/note/242274">DOM</a></li>
 <li><a href="https://www.imooc.com/article/17571">搞清clientHeight、offsetHeight、scrollHeight、offsetTop、scrollTop</a></li>
 <li><a href="https://www.jianshu.com/p/14ee2bffdc3d">定时器（setTimeout）的秘密</a></li>
+<li><a href="https://segmentfault.com/a/1190000003848737">也来说说touch事件与点击穿透问题</a></li>
 </ul>
 </fieldset>
 </section>
