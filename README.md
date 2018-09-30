@@ -132,6 +132,7 @@
 <ul>
 <li><a href="https://segmentfault.com/a/1190000003848737">也来说说touch事件与点击穿透问题</a></li>
 <li><a href="https://juejin.im/entry/56ce9c97c24aa80052101aab">移动页面点击穿透问题解决方案</a></li>
+<li><a href="https://juejin.im/post/5ab4f1066fb9a028e11fe49c">移动开发兼容问题整理笔记</a></li>
 </ul>
 </fieldset>
 <fieldset>
