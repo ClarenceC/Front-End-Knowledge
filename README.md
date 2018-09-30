@@ -128,6 +128,12 @@
 </ul>
 </fieldset>
 <fieldset>
+<legend><h3>H5移动端</h3></legend>
+<ul>
+<li><a href="https://segmentfault.com/a/1190000003848737">也来说说touch事件与点击穿透问题</a></li>
+</ul>
+</fieldset>
+<fieldset>
 <legend><h3>Git</h3></legend>
 <ul>
 <li><a href="https://github.com/ClarenceC/knowledge/issues/3">Git 安装配置与知识点</a></li>
