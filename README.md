@@ -125,6 +125,7 @@
 <li><a href="https://juejin.im/post/5ab36d99f265da23866fccd1">你真的理解@import和link引入样式的区别吗</a></li>
 <li><a href="http://www.w3cplus.com/css/css-sass-scss-compass-less-bem-smacss-oocss-acss-ccss-wtfss.html">CSS, Sass, SCSS, Compass, Less,BEM, SMACSS, OOCSS, ACSS, CCSS, WTFSS?</a></li>
 <li><a href="https://geekplux.com/2014/04/25/several_core_concepts_of_css.html">CSS 最核心的几个概念</a></li>
+<li><a href="https://geekplux.com/2014/04/25/several_core_concepts_of_css.html">CSS 最核心的几个概念</a></li>
 </ul>
 </fieldset>
 <fieldset>
@@ -144,7 +145,7 @@
 <li><a href="http://www.ruanyifeng.com/blog/2015/12/git-workflow.html">Git 工作流程</a></li>
 <li><a href="https://www.jianshu.com/p/ea6341224e89">Git中.gitignore的配置语法</a></li>
 <li><a href="http://blog.csdn.net/north1989/article/details/53471439">Git--将已有的项目添加到github</a></li>
-<li><a href="https://blog.csdn.net/itfootball/article/details/44154121">git中利用rebase来压缩多次提交</a></li>
+<li><a href="https://juejin.im/post/5b876f86518825431079ddd6">彻底搞懂CSS层叠上下文、层叠等级、层叠顺序、z-index</a></li>
 </ul>
 </fieldset>
 <fieldset>
