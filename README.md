@@ -125,7 +125,7 @@
 <li><a href="https://juejin.im/post/5ab36d99f265da23866fccd1">你真的理解@import和link引入样式的区别吗</a></li>
 <li><a href="http://www.w3cplus.com/css/css-sass-scss-compass-less-bem-smacss-oocss-acss-ccss-wtfss.html">CSS, Sass, SCSS, Compass, Less,BEM, SMACSS, OOCSS, ACSS, CCSS, WTFSS?</a></li>
 <li><a href="https://geekplux.com/2014/04/25/several_core_concepts_of_css.html">CSS 最核心的几个概念</a></li>
-<li><a href="https://geekplux.com/2014/04/25/several_core_concepts_of_css.html">CSS 最核心的几个概念</a></li>
+<li><a href="https://juejin.im/post/5b137e6e51882513ac201dfb">CSS动画：animation、transition、transform、translate傻傻分不清</a></li>
 </ul>
 </fieldset>
 <fieldset>
