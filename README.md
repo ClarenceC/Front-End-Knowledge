@@ -137,6 +137,8 @@
 <li><a href="https://juejin.im/post/5b39905351882574c72f2808">响应式布局的常用解决方案对比(媒体查询、百分比、rem和vw/vh）</a></li>
 <li><a href="https://www.zhihu.com/question/22256539">iOS safari 如何阻止“橡皮筋效果”？</a></li>
 <li><a href="https://juejin.im/post/5b6bb6a1f265da0f7b2f9228">深入研究-webkit-overflow-scrolling:touch及ios滚动</a></li>
+<li><a href="https://github.com/pod4g/tool/wiki/%E7%A7%BB%E5%8A%A8%E7%AB%AF%E6%BB%9A%E5%8A%A8%E7%A9%BF%E9%80%8F%E9%97%AE%E9%A2%98">移动端滚动穿透问题</a></li>
+<li><a href="https://juejin.im/post/5abf1c69f265da239706fcb8">移动端滚动穿透解决方案</a></li>
 </ul>
 </fieldset>
 <fieldset>
