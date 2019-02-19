@@ -259,6 +259,12 @@
 </ul>
 </fieldset>
 <fieldset>
+<legend><h3>浏览器原理</h3></legend>
+<ul>
+  <li><a href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247489674&idx=1&sn=7a73f9398be8024bebb6467e730c4d3b&chksm=f951adc9ce2624df6b09ed1da77751420ddd72eb2c0e95f456a8f2a834207704cfd05797da14&mpshare=1&scene=23&srcid=10193pBW5DDynQUAUlDmmhLG#rd">浏览器页面渲染机制，你真的弄懂了吗？</a></li>
+</ul>
+</fieldset>
+<fieldset>
 <legend><h3>职业规划</h3></legend>
 <ul>
   <li><a href="https://juejin.im/post/5b36dda451882574b62a0b84?from=groupmessage">浅谈程序员职业生涯规划</a></li>
