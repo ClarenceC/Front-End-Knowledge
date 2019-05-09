@@ -127,6 +127,7 @@
 <li><a href="https://geekplux.com/2014/04/25/several_core_concepts_of_css.html">CSS 最核心的几个概念</a></li>
 <li><a href="https://juejin.im/post/5b137e6e51882513ac201dfb">CSS动画：animation、transition、transform、translate傻傻分不清</a></li>
 <li><a href="https://segmentfault.com/a/1190000018677177">理解 CSS 布局和 BFC</a></li>
+<li><a href="https://juejin.im/post/59b73d5bf265da064618731d#heading-10">学习 BFC (Block Formatting Context)</a></li>
 </ul>
 </fieldset>
 <fieldset>
