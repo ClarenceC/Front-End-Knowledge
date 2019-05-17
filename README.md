@@ -249,6 +249,7 @@
 <legend><h3>方法论</h3></legend>
 <ul>
   <li><a href="http://www.cnblogs.com/sskyy/p/8268976.html">如何有效地写算法题</a></li>
+  <li><a href="https://juejin.im/post/5cc1da82f265da036023b628?utm_source=gold_browser_extension">一名【合格】前端工程师的自检清单</a></li>
 </ul>
 </fieldset>
 <fieldset>
