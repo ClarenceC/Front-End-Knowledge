@@ -5,4 +5,4 @@
 ### JavaScript 基础
 [JavaScript 基础](../JavaScript/README.md)
 
-[JavaScript 深入](../JavaScript+/README.md)
+[JavaScript 深入](../JavaScriptPlus/README.md)
