@@ -224,6 +224,7 @@
 <legend><h3>Node</h3></legend>
 <ul>
   <li><a href="https://cnodejs.org/topic/58eee565a92d341e48cfe7fc">2017，我们来聊聊 Node.js</a></li>
+  <li><a href='https://blog.csdn.net/zhuweideng/article/details/53376875'>node.js 占用8080 端口的结束方案</a></li>
 </ul>
 </fieldset>
 <fieldset>
