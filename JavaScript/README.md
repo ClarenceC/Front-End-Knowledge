@@ -128,6 +128,7 @@
 <li><a href="https://juejin.im/post/5b137e6e51882513ac201dfb">CSS动画：animation、transition、transform、translate傻傻分不清</a></li>
 <li><a href="https://segmentfault.com/a/1190000018677177">理解 CSS 布局和 BFC</a></li>
 <li><a href="https://juejin.im/post/59b73d5bf265da064618731d#heading-10">学习 BFC (Block Formatting Context)</a></li>
+<li><a href="https://juejin.im/post/5b876f86518825431079ddd6">彻底搞懂CSS层叠上下文、层叠等级、层叠顺序、z-index</a></li>
 </ul>
 </fieldset>
 <fieldset>
@@ -153,7 +154,7 @@
 <li><a href="http://www.ruanyifeng.com/blog/2015/12/git-workflow.html">Git 工作流程</a></li>
 <li><a href="https://www.jianshu.com/p/ea6341224e89">Git中.gitignore的配置语法</a></li>
 <li><a href="http://blog.csdn.net/north1989/article/details/53471439">Git--将已有的项目添加到github</a></li>
-<li><a href="https://juejin.im/post/5b876f86518825431079ddd6">彻底搞懂CSS层叠上下文、层叠等级、层叠顺序、z-index</a></li>
+<li><a href="https://www.jianshu.com/p/f23f72251abc">git rebase 和 git merge 的区别</a></li>
 </ul>
 </fieldset>
 <fieldset>
