@@ -15,3 +15,8 @@ HTML5 语言标签
 |  |&lt;script&gt;| 定认一个内联脚本或者外部脚本。脚本语言是 JavaScript |
 |  |&lt;noscript&gt;| 浏览器不支持脚本时显示的替代文字。 |
 |  |&lt;template&gt;<img width='16px' height='16px' src='./../images/HTML5_32.png'>| 通过 JavaScript 在运行时实例化内容的template容器。以前是通过 &lt;script type='text/template'&gt;&lt;/script&gt; 来访问模版内容，里面的内容被当做普通字符串处理，而新版 template 是可以把标签内内容转为DOM树被当做文档碎片DocumentFragment |
+| 章节 | | |
+|  |&lt;body&gt;| 代表html文档的内容，在文档中只能有一个`<body>` 元素。 |
+|  |&lt;section&gt;<img width='16px' height='16px' src='./../images/HTML5_32.png'>| 表示文档中的一个章节的内容，里面一般会这个章节的标题和内容 |
+|  |&lt;nav&gt;<img width='16px' height='16px' src='./../images/HTML5_32.png'>| 用来表示文档中导航链接的部分，常用来菜单，目录和索引等。 |
+|  |&lt;article&gt;<img width='16px' height='16px' src='./../images/HTML5_32.png'>| 用来表示内容期余部分的独立上的内容，也包括会有标题和完整独立的内容块 |
