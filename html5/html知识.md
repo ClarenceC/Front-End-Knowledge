@@ -4,7 +4,7 @@
 
 1. [HTML5:div section和article的区别](./section和article区别.md)
 
-1. [HTML5: Doctype和字符集](./doctype字符集.md)
+1. [HTML5:DOCTYPE作用和浏览器模式](./DOCTYPE作用和浏览器模式.md)
 
 
 
