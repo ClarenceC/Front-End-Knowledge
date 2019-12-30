@@ -6,6 +6,8 @@
 
 1. [HTML5:DOCTYPE作用和浏览器模式](./DOCTYPE作用和浏览器模式.md)
 
+1. [HTML5:查找元素](./html5查找元素Api.md)
+
 
 
 ### HTML5 API
