@@ -38,10 +38,7 @@
 
 ### 综合问题
 
-[跨域解决方法](./Comprehensive/前端跨域.md)
-
-[敏捷开发入门教程](http://www.ruanyifeng.com/blog/2019/03/agile-development.html)
-
+[综合知识](./Comprehensive/comprehensive知识点.md)
 
 ### Toolkit
 
