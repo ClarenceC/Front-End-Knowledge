@@ -63,3 +63,8 @@ HTML5 语言标签
 |  |`<ruby>`<img width='16px' height='16px' src='./../images/HTML5_32.png'>| 代表标记文本拼音注释的一个组合。如中文汉字和它的拼音，通常和`<rt>`、`<rp>`一起使用。 |
 |  |`<rt>`<img width='16px' height='16px' src='./../images/HTML5_32.png'>| 代表注释文本`<ruby>`里面的拼音部分。 |
 |  |`<rp>`<img width='16px' height='16px' src='./../images/HTML5_32.png'>| 代表注释文本`<ruby>`里面的注释拼音额外插入的文本，用于在不支持`<ruby>`注释显示的浏览器中提供友好的兼容显示。 |
+|  |`<bdi>`<img width='16px' height='16px' src='./../images/HTML5_32.png'>| 代表需要脱离父元素文本方向的一段文本。它允许嵌入一段不同或未知文本方向的格式文本。文本方向由浏览器决定。 |
+|  |`<bdo>`| 和`<bdi>`相同都是决定文本方向的，可以通过属性`dir`显式定义文本方向。|
+|  |`<span>`| 定义一段没有特殊含义的文本，当其他语义元素都不适合文本时可以使用该元素。|
+|  |`<br>`| 换行标签。 |
+|  |`<wbr>`<img width='16px' height='16px' src='./../images/HTML5_32.png'>| 建议换行标签(Word Break Opportunity), 当文本太长需要换行时将会在此处添加换行符。 |
