@@ -75,3 +75,14 @@ HTML5 语言标签
 |  |`<img>`| 代表引入一个图片的标签 |
 |  |`<iframe>`| 表示引入一个内联的框架。|
 |  |`<embed>`<img width='16px' height='16px' src='./../images/HTML5_32.png'>| 将外部内容嵌入文档中，此内容由外部应用程序或其他交互式内容源提供。|
+|  |`<object>`| 代表一个外部资源，如图片、HTML子文档、插件等。`<object>`相比于`<embed>`会更好用一些。`<object>`可以包含`<embed>`来兼容一些旧的浏览器。|
+|  |`<param>`| 一般用在 `<object>` 标签里面，表示插件里面所需要的一些参数。|
+|  |`<video>`<img width='16px' height='16px' src='./../images/HTML5_32.png'>| 代表一段视频及视频文件和字幕，并提供了播放视频的用户界面。|
+|  |`<audio>`<img width='16px' height='16px' src='./../images/HTML5_32.png'>| 表示一段声音或者音频流文件。|
+|  |`<source>`<img width='16px' height='16px' src='./../images/HTML5_32.png'>| 为`<video>`或`<audio>`这类媒体元素只定媒体源。|
+|  |`<track>`<img width='16px' height='16px' src='./../images/HTML5_32.png'>| 为`<video>`或`<audio>`这类媒体元素指定文本轨道(字幕)|
+|  |`<canvas>`<img width='16px' height='16px' src='./../images/HTML5_32.png'>| 代表位图区域，可以通过脚本在它上面实时呈现图形，如图表、游戏绘图等。|
+|  |`<map>`| 一般用来和图片做映射和`<area>`配合映射图片上面的区域。 |
+|  |`<area>`| 和 `<map>` 配合，表示具体图片上面的区域。 |
+|  |`<svg>`<img width='16px' height='16px' src='./../images/HTML5_32.png'>| 定义一个嵌入式矢量图。|
+|  |`<math>`<img width='16px' height='16px' src='./../images/HTML5_32.png'>| 定义一段数学公式。|
