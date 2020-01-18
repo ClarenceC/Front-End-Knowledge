@@ -86,3 +86,4 @@ HTML5 语言标签
 |  |`<area>`| 和 `<map>` 配合，表示具体图片上面的区域。 |
 |  |`<svg>`<img width='16px' height='16px' src='./../images/HTML5_32.png'>| 定义一个嵌入式矢量图。|
 |  |`<math>`<img width='16px' height='16px' src='./../images/HTML5_32.png'>| 定义一段数学公式。|
+| 表格 | | |
