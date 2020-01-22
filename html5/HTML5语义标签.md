@@ -102,3 +102,15 @@ HTML5 语言标签
 |  |`<fieldset>`| 在表单里面代表一个控件组，里面有控件组的标题，和各控件。|
 |  |`<legend>`| 在控件组`<fieldset>`里面，表示控件组的标题。|
 |  |`<label>`| 表示单个控件的标题和文本。|
+|  |`<input>`| 代表用户编辑数据的数据区(有文本框，单选框、复选框等类型)。|
+|  |`<button>`| 代表按钮。|
+|  |`<select>`| 代表下拉框元素。在元素里面通过 `<option>` 表示选项的值。在选项框里面可以选预选的值。|
+|  |`<datalist>`| 代表很像一个下拉列表，但是它只是提供一个数据的选择，并且不限制你在输入框中输入任何内容。|
+|  |`<datalist>`<img width='16px' height='16px' src='./../images/HTML5_32.png'>| 代表很像一个下拉列表，但是它只是提供一个数据的选择，并且不限制你在输入框中输入任何内容。|
+|  |`<optgroup>`| 代表一个选项值的分组，在选项值里面显示分组。|
+|  |`<option>`| 代表一个选项常用在`<select>`或`<datalist>`元素中。|
+|  |`<textarea>`| 代表多行文本框。|
+|  |`<keygen>`<img width='16px' height='16px' src='./../images/HTML5_32.png'>| 代表一个密钥对生成 控件。|
+|  |`<output>`<img width='16px' height='16px' src='./../images/HTML5_32.png'>| 代表输出计算的值。|
+|  |`<progress>`<img width='16px' height='16px' src='./../images/HTML5_32.png'>| 代表进度条。|
+|  |`<meter>`<img width='16px' height='16px' src='./../images/HTML5_32.png'>| 用来显示已知范围的标量值或者分数值。|
