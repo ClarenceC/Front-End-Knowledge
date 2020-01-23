@@ -114,3 +114,8 @@ HTML5 语言标签
 |  |`<output>`<img width='16px' height='16px' src='./../images/HTML5_32.png'>| 代表输出计算的值。|
 |  |`<progress>`<img width='16px' height='16px' src='./../images/HTML5_32.png'>| 代表进度条。|
 |  |`<meter>`<img width='16px' height='16px' src='./../images/HTML5_32.png'>| 用来显示已知范围的标量值或者分数值。|
+| 交互元素 | | |
+|  |`<details>`<img width='16px' height='16px' src='./../images/HTML5_32.png'>| 创建一个挂件，仅在切换成展开状态时，它才会显示内含的信息内容。|
+|  |`<summary>`<img width='16px' height='16px' src='./../images/HTML5_32.png'>| 在`<details>`内容里面表示详情标题。|
+|  |`<menuitem>`<img width='16px' height='16px' src='./../images/HTML5_32.png'>| 创建一个用户可以点击的菜单项目，包括上下文菜单，以及 按钮可能附带的菜单。|
+|  |`<menu>`<img width='16px' height='16px' src='./../images/HTML5_32.png'>| 创建珍上菜单。|
