@@ -69,6 +69,8 @@ HTTP 状态码负责表示客户端 HTTP 请求的返回结果，表示服务器
 
 - **500 Internal Server Error** 该状态码表明服务端在执行请求时发生了错误。也有可能是 Web 应用存在的 bug 或某些临时的故障。
 
+- **502 Bad Gateway** 该状态码表明服务器作为网关需要得到一个处理这个请求的响应，但是得到一个错误的响应。
+
 - **503 Service Unavailable** 该状态码表明服务器暂时处于超负载或正在进行停机维护，现在无法处理请求。
 
 有很多时候服务器的实际情况和 HTTP状态码标准还是有不一致的情况的，所以不少返回的状态码响应都是错误的，实际开发和在 Web程序应用的时候就要注意了。
@@ -77,3 +79,4 @@ HTTP 状态码负责表示客户端 HTTP 请求的返回结果，表示服务器
 
 - [HTTP 中的 301、302、303、307、308 响应状态码](https://zhuanlan.zhihu.com/p/60669395)
 - [http重定向301/302/303/307](https://blog.csdn.net/reliveIT/article/details/50776984)
+- [HTTP 响应代码](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Status)
