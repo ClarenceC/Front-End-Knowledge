@@ -97,3 +97,27 @@ Keep-Alive: timeout=15, max=100 // 可以存在多值
 | Content-Type | 实体主体的媒体类型 |
 | Expires | 实体主体的过期时间 |
 | Last-Modified | 资源最后修改日期时间 |
+
+
+上面是 HTTP/1.1 首部字段为主， 还有些不是 HTTP/1.1 添加的首部字段，`Cookies`、`Set-Cookie`、`Content-Disposition`等。
+
+在一个报文请求在端对端或代理间作用的首部又可以分为两类：
+
+1. 逐跳首部(Hop-by-hop Header)
+在此类型中的首部只对单次转发有效，会因通过缓存或代理而不再转发，如果需要使用逐跳首部需要提供 `Connection` 字段，逐跳首部包括下面字段：
+- Connection
+- Keep-Alive
+- Proxy-Authenticate
+- Proxy-Authorization
+- Trailer
+- TE
+- Transfer-Encoding
+- Upgrade
+
+除了上面这些其它都是端到端首部字段。
+
+
+2. 端到端首部(End-to-end Header)
+
+在此类中的首部会转发给请求/响应对应的最终接收目标，且必须保存在由缓存生成的响应中，另外规定它必须再被转发。
+
