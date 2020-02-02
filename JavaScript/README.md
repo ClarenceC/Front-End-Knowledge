@@ -188,18 +188,6 @@
 </ul>
 </fieldset>
 <fieldset>
-<legend><h3>Webpack</h3></legend>
-<ul>
-<li><a href="https://zhuanlan.zhihu.com/p/21318102?refer=leanreact">webpack 进阶</a></li>
-<li><a href="http://www.cnblogs.com/ihardcoder/p/5623411.html">Webpack中hash与chunkhash的区别，以及js与css的hash指纹解耦方案</a></li>
-<li><a href="http://blog.csdn.net/zshake/article/details/72311617">简单的webpack- 引入bootstrap</a></li>
-<li><a href="https://visonforcoding.github.io/webpackyin-ru-bootstrap.html">webpack引入bootstrap</a></li>
-<li><a href="https://github.com/dwqs/blog/issues/60">Webpack 4 不完全迁移指北</a></li>
-<li><a href="https://github.com/dwqs/blog/issues/60">Webpack-dev-server源码与原理深入分析</a></li>
-<li><a href="https://segmentfault.com/a/1190000009266900">基于webpack的前后端分离开发环境实战</a></li>
-<li><a href="https://juejin.im/post/5cede821f265da1bbd4b5630">面试必备！webpack 中那些最易混淆的 5 个知识点</a></li>
-</ul>
-</fieldset>
 <fieldset>
 <legend><h3>MongoDB</h3></legend>
 <ul>
