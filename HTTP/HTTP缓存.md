@@ -10,3 +10,14 @@
 
 缓存不但可以存在缓存服务器内，还可以请求在客户端浏览器中，被称为临时网络文件。浏览器缓存也一样如果有效期还没过，就直接使用本地的缓存，如果判断浏览器缓存失效，则会再次请求新的资源。
 
+
+### 概念
+
+- **ETag** 全称请求变量的实体值(Entity Tag), `ETag` 是服务端的一个资源的标识符，如果给定的 URL 中的资源更改了，则一定要生成新的 `ETag` 值,来表示资源的唯一值。一般可以用 `ETag` 来判断资源更新的变化来控制缓存机制。
+
+
+### 参考引用
+
+- [你知道HTTP协议的ETag是干什么的吗？](https://juejin.im/post/5d07a0fcf265da1ba56b1f15)
+- [ETag_MDN](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Headers/ETag)
+- [什么是Etag](http://ysha.me/2016/07/25/07-25-%E4%BB%80%E4%B9%88%E6%98%AFEtag/)
