@@ -64,6 +64,7 @@ Keep-Alive: timeout=15, max=100 // 可以存在多值
 | Referer | 对请求中 URI 的原始获取方 |
 | TE | 传输编码的优先级 |
 | User-Agent | HTTP 客户端程序的信息 |
+| Cookie | 服务器接收到的Cookie信息 |
 
 #### 响应首部字段(Response Header Fields)
 
@@ -80,6 +81,7 @@ Keep-Alive: timeout=15, max=100 // 可以存在多值
 | Server | HTTP服务器的安装信息 |
 | Vary | 代理服务器缓存的管理信息 |
 | WWW-Authenticate | 服务器对客户端的认证信息 |
+| Set-Cookie | 开始状态管理所使用的Cookie信息 |
 
 #### 实体首部字段(Response Header Fields)
 
