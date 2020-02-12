@@ -101,6 +101,26 @@ Keep-Alive: timeout=15, max=100 // 可以存在多值
 | Last-Modified | 资源最后修改日期时间 |
 
 
+#### 其它首部字段
+
+HTTP 首部字段是可以自行扩展的，所以在 Web 服务器和浏览器的应用上也会出现各种非标准的首部字段。
+
+- **X-Frame-Options**
+
+首部字段 X-Frame-Options 属于 HTTP 响应首部，用于控制网站内容在其他 Web 网站 Frame 标签内显示的问题。主要是为了防止点击却持攻击。
+
+- **X-XSS-Protection**
+
+属于 HTTP 响应首部，它是针对跨站脚本攻击(XSS)的一种对策，用于控制浏览器 XSS 防护机制的开关。
+
+- **DNT**
+
+属于 HTTP 请求首部，DNT(Do Not Track) 意思为拒绝个人信息被收集。表示拒绝被精准广告追踪的一种方法。
+
+- **P3P**
+
+属于 HTTP 响应首部，通过 P3P技术可以让 Web 网站上的个人隐私变成一种仅供程序可理解的形式，以达到保护用户隐私的目的。
+
 上面是 HTTP/1.1 首部字段为主， 还有些不是 HTTP/1.1 添加的首部字段，`Cookies`、`Set-Cookie`、`Content-Disposition`等。
 
 在一个报文请求在端对端或代理间作用的首部又可以分为两类：
