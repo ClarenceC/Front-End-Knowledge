@@ -123,6 +123,48 @@ HTTP 首部字段是可以自行扩展的，所以在 Web 服务器和浏览器�
 
 上面是 HTTP/1.1 首部字段为主， 还有些不是 HTTP/1.1 添加的首部字段，`Cookies`、`Set-Cookie`、`Content-Disposition`等。
 
+
+#### Fetch Metadata Request Headers
+
+Fetch Metadata Request Headers 是 W3C 2020 的一个新提案，主要是为了避免简单 CSRF(Cross-site request forgery）跨站请求伪造等恶意攻击, 可以在元素上面定义一组 `Fetch` 请求头，以便服务器可以直接根据这些请求头信息就可以快速判断是否为其提供服务，这判断可以在反向代理或 CDNS 上面就作出响应，不需要到后端服务器上。暂时浏览器只有 Chrome 实现了。
+
+
+
+主要有几个请求头:
+
+- **Sec-Fetch-Dect**
+
+表示 HTTP 请求头向服务器公开请求的目的地，是一个结构化的标记。`Sec-Fetch-Dect` 的值可以是 `audio`, `audioworklet`, `document`, `embed`, `empty`, `font`, `image`, `manifest`, `object`, `paintworklet`, `report`, `script`, `serviceworker`, `sharedworker`, `style`, `track`, `video`, `worker`, `xslt`, 和 `nested-document` 等。如果该值为无效值，服务器就应该忽略它了。
+
+- **Sec-Fetch-Mode**
+
+表示请求的模式, 主要有 `cors`、 `navigate`、 `nested-navigate`、 `no-cors` 等等，是用来判断这个请求是什么模式。类似 `fetch` 中的 mode.
+
+- **Sec-Fetch-Site**
+
+表示请求头的源和目标之间的关系是怎样的，例如跨源还是同源等关系，可以填写值有 `cross-site`、`same-origin`、`same-site`、`none` 等
+
+- **Sec-Fetch-User**
+
+是一个 boolean 值，表示 HTTP 请求头是否由用户激活发起，只有在是浏览器自然发起请求而且有互动的时候才会是 `true`，否则为 `false` 服务器会根据这个来判断请求是否合法。像如果点击 `form` 表单送出的时候且由 document 送出请求和使用者有互动的时候 `Set-Fetch-User` 会是 `?T` 值。
+
+例子:
+
+```js
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: cross-site
+```
+
+```js
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+```
+
+
+
 在一个报文请求在端对端或代理间作用的首部又可以分为两类：
 
 1. 逐跳首部(Hop-by-hop Header)
@@ -143,3 +185,9 @@ HTTP 首部字段是可以自行扩展的，所以在 Web 服务器和浏览器�
 
 在此类中的首部会转发给请求/响应对应的最终接收目标，且必须保存在由缓存生成的响应中，另外规定它必须再被转发。
 
+
+### 参考引用
+
+- [Fetch Metadata Request Headers](https://www.w3.org/TR/fetch-metadata/)
+
+- 图解HTTP
