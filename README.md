@@ -19,8 +19,9 @@
 ### HTML5
 [html5](./html5/html知识.md)
 
-### 模块化工具
+### 模块化
 
+[模块化知识](./Module/README.md)
 [webpack](https://github.com/ClarenceC/webpack-learn)
 
 ### NodeJS
@@ -34,7 +35,7 @@
 
 ### Framework
 
-### 移动端解决方案
+### 移动端
 
 [移动端知识](./mobile/mobile知识.md)
 
