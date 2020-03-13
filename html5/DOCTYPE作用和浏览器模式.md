@@ -58,7 +58,6 @@ HTML5 下可以通过 `document.compatMode` 获取当前处理的模式类型。
 
 [DOCTYPE与浏览器模式详解（标准模式&混杂模式)](https://www.cnblogs.com/imxiu/p/3541932.html)
 
-
 [Doctype作用？DTD是啥？标准模式与兼容模式各有什么区别-](https://www.jianshu.com/p/c0026852f59a)
 
 [简单聊一下DOCTYPE](https://zhuanlan.zhihu.com/p/32460261)
