@@ -11,3 +11,5 @@
 - [HTTP Cookie](./HTTPCookie.md)
 - [Web攻击技术](./Web攻击技术.md)
 - [* HTTP1.0、HTTP1.1 和 HTTP2.0 的区别](https://juejin.im/entry/5981c5df518825359a2b9476)
+- [* 聊聊 CDN 缓存与浏览器缓存](https://juejin.im/post/5cdb7e29e51d453a572aa2f1)
+- [* CDN 基础架构及缓存控制](https://zhuanlan.zhihu.com/p/83486624)
