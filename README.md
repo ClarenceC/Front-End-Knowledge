@@ -47,6 +47,8 @@
 
 ### Performance
 
+[性能](./Performance/Performance知识.md)
+
 ### 版本控制
 
 ### 高效学习论

@@ -10,6 +10,8 @@
 
 [* [JavaScript] Cookie、LocalStorage、SessionStorage 三種差異](https://medium.com/@jscinin/javascript-cookie-localstorage-sessionstorage-%E4%B8%89%E7%A8%AE%E5%B7%AE%E7%95%B0-fe7f38260439)
 
+[* 了解JavaScript中的重绘和重排](https://fenews.org/posts/what-the-heck-is-repaint-and-reflow-in-the-browse/)
+
 ### Git
 
 [* Commit message 和 Change log 编写指南](http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html)
