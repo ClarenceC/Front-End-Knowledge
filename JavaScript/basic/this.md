@@ -35,3 +35,70 @@ var a = 3
 obj.foo() // 2
 ```
 
+当 foo 在 obj 内被调用的时候, this 调用位置会使用 obj 上下文来引用函数。因此你可以说函数被调用时 obj 对象"拥有"或"包含"它。
+
+对象属性引用链只对引用上一层或最后一层调用位置中起作用。
+
+```js
+function foo() {
+  console.log(this.a)
+}
+var obj2 = {
+  a: 42,
+  foo: foo
+}
+var obj1 = {
+  a: 2,
+  obj2: obj2
+}
+obj1.obj2.foo() //42
+```
+
+**隐匿绑定**，有一个常见的 this **隐式丢失**的情况, 也就是它丢失了**隐匿绑定** 会应用回 **默认绑定**， 从而把 this 绑定到全局对象或 undefined 上。
+
+ExampleOne
+```js
+function foo() {
+  console.log(this.a)
+}
+var obj = {
+  a: 2,
+  foo: foo
+}
+var bar = obj.foo
+var a = 'oops, global'
+bar() // 'oops, global' bar 丢失了 foo 的执行上下文
+```
+
+ExampleTwo
+```js
+function foo() {
+  console.log(this.a)
+}
+function doFoo(fn) {
+  // fn 引用的是 foo，参数传递其实是一种隐匿赋值
+  fn() // 调用
+}
+var obj = {
+  a: 2,
+  foo: foo
+}
+var a = 'oops, global'
+doFoo(obj.foo) // oops, global
+```
+
+ExampleThree
+```js
+function foo() {
+  console.log(this.a)
+}
+var obj = {
+  a: 2,
+  foo: foo
+}
+var a = 'oops, global'
+setTimeout(obj.foo, 100) // 'oops, global' 系统函数传递一样是会丢失执行上下文
+```
+
+- **显式绑定**
+
