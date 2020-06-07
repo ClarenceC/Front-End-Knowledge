@@ -102,3 +102,63 @@ setTimeout(obj.foo, 100) // 'oops, global' 系统函数传递一样是会丢失�
 
 - **显式绑定**
 
+之前隐匿绑定，都是通过在对象内部包含一个指向函数的属性，并通过这个属性引用函数，从而把 this 间接(隐式)绑定到这个对象之上。而 JavaScript 是有直接绑定 this 的方法的 `call`、`apply`。具体使用用法可以查看[call、apply、bind的用法和区别](./call&apply&bind.md)
+
+```js
+function foo() {
+  console.log(this.a)
+}
+var obj = {
+  a:2
+}
+foo.call(obj) //2 通过 call 显式绑定到 obj 上
+```
+
+但是显式绑定`call`, `apply`还是一样会出现丢失绑定的问题。
+```js
+function foo() {
+  console.log(this.a)
+}
+var obj = {
+  a: 2
+}
+foo.call(obj)
+var a = 'oops, global'
+var bar = foo
+bar() // 'oops, global'
+```
+
+除了 `bind` 硬式绑定不会出现丢失绑定的情况，其它显示绑定都会丢失，`bind` 在 ES5 开始程序内提供的内置方法 `Function.prototype.bind`。其实的原理是
+
+```js
+function foo(something) {
+  console.log(this.a, something)
+  return this.a + something
+}
+
+function bind(fn, obj){
+  return function() {
+    return fn.apply(obj, arguments) // 通过一个闭包，绑定 对象 和 arguments 的状态
+  }
+}
+var obj = {
+  a: 2
+}
+var bar = bind(foo, obj)
+var b = bar(3)
+console.log(b)
+```
+
+**new 绑定**
+
+**new 绑定**,其实是通过 `new` 新建一个对象并把它绑定到构造函数 `foo()` 里的 `this` 中。
+
+```js
+function foo(a) {
+  this.a = a
+}
+var bar = new foo(2)
+console.log(bar.a) // 2
+```
+
+### `this` 绑定的优先级
