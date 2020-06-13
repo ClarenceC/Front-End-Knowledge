@@ -148,6 +148,7 @@ var bar = bind(foo, obj)
 var b = bar(3)
 console.log(b)
 ```
+这只是我们理解上的 `bind` 原理，实际上 ES5 中的内置 `Function.prototype.bind` 比我们理解的更加复杂，polyfill 的兼容旧浏览器代码，也只是尽力模拟内置实现，实际上还是具有一定副作用。
 
 **new 绑定**
 
@@ -162,3 +163,75 @@ console.log(bar.a) // 2
 ```
 
 ### `this` 绑定的优先级
+
+**new绑定(硬式绑定)** > **显式绑定** > **隐式绑定** > **默认绑定**
+
+
+### 绑定例外
+
+#### 被忽略的 this。
+
+如果把 `null` 或 `undefined` 作为 `this` 的绑定对象传入 `call`，`apply`, 或 `bind`, 就会被认为是**默认绑定**规则。会把 `this` 绑定到全局对象下。
+
+```js
+function foo() {
+  console.log(this.a)
+}
+var a = 2
+foo.call(null) // 2
+```
+
+如果一定要通过绑定 `null` 作为显示绑定对象来实现某一些功能，可以自定义一个 DMZ(demilitarized zone 非军事区) 空对象来绑定，避免使用 `null` 或 `undefined` 绑定到全局下。
+
+DMZ 是一个自己创建的空对象，不包含任何变量参数。
+
+```js
+function foo(a, b) {
+  console.log('a:' + a + ', b' + b)
+}
+var o = Object.create(null) // 尽量写一个不用使用的参数来定义 DMZ空对象
+
+// 把数组展开为参数
+foo.apply(o, [2, 3]) // a: 2, b: 3
+
+// 使用 bind 进行柯里化
+var bar = foo.bind(o, 2)
+bar(3) // a: 2, b: 3
+```
+
+#### 间接引用
+
+如果间接引用或传值就会出现 `this` 丢失。
+
+```js
+function foo() {
+  console.log(this.a)
+}
+var a = 2
+var o = { a: 3, foo: foo }
+var p = { a: 4 }
+o.foo()  // 3
+(p.foo = o.foo)() // 2 传值后执行
+```
+
+#### 软件绑定
+
+因为硬绑定是强制绑死固定一个 `this`, 所以有时候如果要使用到其它方式绑定的时候就会非常不方便, 所以大佬们研究出了一个软绑定，可以同时保留隐式绑定和显示绑定带来的 `this` 修改能力。
+
+```js
+if (!Function.prototype.softBind) {
+  Function.prototype.softBind = function(obj) {
+    var fn = this
+    var curried = [].slice.call(arguments, 1)
+    var bound = function() {
+      return fn.apply(
+        (!this || this === (window || global))? obj : this,
+        curried.concat.apply(curried, arguments)
+      )
+    }
+    bound.prototype = Object.create(fn.prototype)
+    return bound
+  }
+}
+```
+
