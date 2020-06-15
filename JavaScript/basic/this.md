@@ -214,7 +214,7 @@ o.foo()  // 3
 (p.foo = o.foo)() // 2 传值后执行
 ```
 
-#### 软件绑定
+#### 软绑定
 
 因为硬绑定是强制绑死固定一个 `this`, 所以有时候如果要使用到其它方式绑定的时候就会非常不方便, 所以大佬们研究出了一个软绑定，可以同时保留隐式绑定和显示绑定带来的 `this` 修改能力。
 
@@ -235,3 +235,25 @@ if (!Function.prototype.softBind) {
 }
 ```
 
+
+### 关于 ES6 箭头函数的 this
+
+`ES6` 里面的箭头函数，不使用上面 `this` 四种标准规则的，而是根据外层作用域来决定 `this`。
+
+```js
+function foo ()  {
+  return (a) => {
+    console.log(this.a)
+  }
+}
+var obj1 = {
+  a: 2
+}
+var obj2 = {
+  a: 3
+}
+var bar = foo.call(obj1)
+bar.call(obj2) // 2 通过 call 绑定了 obj1 对象到箭头函数上面后 this 没办法再修改了(new 也不行)。
+```
+
+箭头函数会像，`bind()` 一样确保函数的 `this`, 被绑定到指定的对象上面。
