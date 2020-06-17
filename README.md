@@ -63,9 +63,9 @@
 
 [编程知识](./Programming/README.md)
 
-### 算法
+### 算法与数据结构
 
-[算法知识](./Algorithm/算法知识.md)
+[算法与数据结构知识](./Algorithm/算法知识.md)
 
 ### Interview
 
