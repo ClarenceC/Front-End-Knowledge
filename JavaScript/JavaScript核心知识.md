@@ -7,3 +7,5 @@
 - [提升](./basic/提升.md)
 - [模块](./basic/模块.md)
 - [动态作用域](./basic/动态作用域.md)
+- [this](./basic/this.md)
+- [call、apply、bind 对比和实现](./basic/call&apply&bind.md)
