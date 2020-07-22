@@ -13,3 +13,8 @@
 ### HTML5 API
 
 - [了解 Fetch API ](https://aotu.io/notes/2017/04/10/fetch-API/index.html)
+
+
+### HTML5 
+
+- [* 理解DOMString、Document、FormData、Blob、File、ArrayBuffer数据类型](https://www.zhangxinxu.com/wordpress/2013/10/understand-domstring-document-formdata-blob-file-arraybuffer/)

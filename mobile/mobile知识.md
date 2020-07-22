@@ -13,3 +13,5 @@
  - [* 面试官：你了解过移动端适配吗？](https://juejin.im/post/5e6caf55e51d4526ff026a71#heading-16)
  - [* 移动端适配问题解决方案](https://juejin.im/post/5add7a44f265da0b886d05f8#heading-3)
  
+ - [* 移动端H5实现图片上传](https://segmentfault.com/a/1190000010034177)
+ 
