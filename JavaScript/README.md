@@ -145,18 +145,6 @@
 </ul>
 </fieldset>
 <fieldset>
-<legend><h3>Git</h3></legend>
-<ul>
-<li><a href="https://github.com/ClarenceC/knowledge/issues/3">Git 安装配置与知识点</a></li>
-<li><a href="https://github.com/ClarenceC/knowledge/issues/8">Git 学习命令与总结</a></li>
-<li><a href="https://github.com/ClarenceC/knowledge/issues/8">为什么原型继承很重要 – SegmentFault</a></li>
-<li><a href="http://www.ruanyifeng.com/blog/2015/12/git-workflow.html">Git 工作流程</a></li>
-<li><a href="https://www.jianshu.com/p/ea6341224e89">Git中.gitignore的配置语法</a></li>
-<li><a href="http://blog.csdn.net/north1989/article/details/53471439">Git--将已有的项目添加到github</a></li>
-<li><a href="https://www.jianshu.com/p/f23f72251abc">git rebase 和 git merge 的区别</a></li>
-</ul>
-</fieldset>
-<fieldset>
 <legend><h3>Other</h3></legend>
 <ul>
 <li><a href="https://github.com/ClarenceC/knowledge/issues/11">URL URI URN区别</a></li>
@@ -178,13 +166,6 @@
 <li><a href="https://molunerfinn.com/fe-be-router-render/#%E4%BB%8E%E5%90%8E%E7%AB%AF%E8%B7%AF%E7%94%B1%E8%AE%B2%E8%B5%B7">浅谈前后端路由与前后端渲染</a></li>
 <li><a href="https://juejin.im/post/5a0ea4ec6fb9a0450407725c">前端：你要懂的单页面应用和多页面应用</a></li>
 <li><a href="https://github.com/happylindz/blog/issues/3">跨域，你需要知道的全在这里</a></li>
-</ul>
-</fieldset>
-<fieldset>
-<legend><h3>NPM</h3></legend>
-<ul>
-<li><a href="https://github.com/ClarenceC/knowledge/issues/9">关于npm run dev和build</a></li>
-<li><a href="https://segmentfault.com/q/1010000005163089">--save-dev 与 －－save区别</a></li>
 </ul>
 </fieldset>
 <fieldset>
