@@ -12,6 +12,8 @@
 
 [* 了解JavaScript中的重绘和重排](https://fenews.org/posts/what-the-heck-is-repaint-and-reflow-in-the-browse/)
 
+[* Unicode与JavaScript详解](http://www.ruanyifeng.com/blog/2014/12/unicode.html)
+
 ### Git
 
 [* Commit message 和 Change log 编写指南](http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html)
