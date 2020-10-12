@@ -11,6 +11,8 @@
 - [call、apply、bind 对比和实现](./basic/call&apply&bind.md)
 - [new函数手动实现](./basic/new函数构建对象的实现.md)
 - [对象](./basic/对象.md)
+- [原型](./basic/原型.md)
+- [行为委托](./basic/行为委托.md)
 
 
 ### JavaScript 综合
