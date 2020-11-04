@@ -12,3 +12,7 @@
 [Git--将已有的项目添加到github](http://blog.csdn.net/north1989/article/details/53471439)
 
 [git rebase 和 git merge 的区别](https://www.jianshu.com/p/f23f72251abc)
+
+[* 三年 Git 使用心得 & 常见问题整理](https://juejin.im/post/6844904191203213326?utm_source=gold_browser_extension)
+
+[* Commit message 和 Change log 编写指南](http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html)

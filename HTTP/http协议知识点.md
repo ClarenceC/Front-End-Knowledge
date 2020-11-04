@@ -16,3 +16,5 @@
 - [* 聊聊 CDN 缓存与浏览器缓存](https://juejin.im/post/5cdb7e29e51d453a572aa2f1)
 - [* CDN 基础架构及缓存控制](https://zhuanlan.zhihu.com/p/83486624)
 - [* （建议精读）HTTP灵魂之问，巩固你的 HTTP 知识体系](https://juejin.im/post/5e76bd516fb9a07cce750746?utm_source=gold_browser_extension)
+
+- [* Fundebug网站升级HTTP/2，真的变快了！](https://cloud.tencent.com/developer/article/1532169)
