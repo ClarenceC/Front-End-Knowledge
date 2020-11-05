@@ -13,3 +13,5 @@
 [关于npm run dev和build](https://github.com/ClarenceC/knowledge/issues/9)
 
 [--save-dev 与 －－save区别](https://segmentfault.com/q/1010000005163089)
+
+[* npm scripts 使用指南](http://www.ruanyifeng.com/blog/2016/10/npm_scripts.html)
