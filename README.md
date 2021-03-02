@@ -6,7 +6,7 @@
 
 ### JavaScript
 
-[JavaScript](./JavaScript/JavaScript核心知识.md)
+[JavaScript 核心知识](./JavaScript/JavaScript核心知识.md)
 
 [JavaScript 基础](./JavaScript/README.md)
 

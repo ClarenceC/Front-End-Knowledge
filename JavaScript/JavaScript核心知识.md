@@ -22,3 +22,5 @@
 ### JavaScript 原理
 
 - [*关于passive event listener的一次踩坑](https://juejin.im/post/5ad804c1f265da504547fe68)
+
+- [* JavaScript 的事件委托与事件代理](https://www.cnblogs.com/liugang-vip/p/5616484.html)
