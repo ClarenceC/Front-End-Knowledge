@@ -78,7 +78,7 @@ Content-Type: image/jpeg
 
 协商技术有三种类型:
 
-1. 服务商戏动协商（Server-driven Negotiation)
+1. 服务器驱动协商（Server-driven Negotiation)
 由服务器端进行内容协商，根据请求的首部字段为参考，在服务器端自动处理。
 
 2. 客户端驱动协商（Agent-driven Negotiation）
