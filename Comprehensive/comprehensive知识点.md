@@ -16,6 +16,8 @@
 
 [* 浏览器与Node的事件循环(Event Loop)有何区别?](https://blog.fundebug.com/2019/01/15/diffrences-of-browser-and-node-in-event-loop/)
 
+[* 重排(reflow)和重绘(repaint)](https://juejin.cn/post/6844904083212468238)
+
 ### Git
 
 [Git知识](./Git/readme.md)
