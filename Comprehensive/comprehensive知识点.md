@@ -10,11 +10,13 @@
 
 [* [JavaScript] Cookie、LocalStorage、SessionStorage 三種差異](https://medium.com/@jscinin/javascript-cookie-localstorage-sessionstorage-%E4%B8%89%E7%A8%AE%E5%B7%AE%E7%95%B0-fe7f38260439)
 
-[* 了解JavaScript中的重绘和重排](https://fenews.org/posts/what-the-heck-is-repaint-and-reflow-in-the-browse/)
-
 [* Unicode与JavaScript详解](http://www.ruanyifeng.com/blog/2014/12/unicode.html)
 
 [* 浏览器与Node的事件循环(Event Loop)有何区别?](https://blog.fundebug.com/2019/01/15/diffrences-of-browser-and-node-in-event-loop/)
+
+### 重绘重排
+
+[* 了解JavaScript中的重绘和重排](https://fenews.org/posts/what-the-heck-is-repaint-and-reflow-in-the-browse/)
 
 [* 重排(reflow)和重绘(repaint)](https://juejin.cn/post/6844904083212468238)
 
