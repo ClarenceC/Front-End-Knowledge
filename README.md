@@ -73,7 +73,7 @@
 
 ### 前端路成长
 
-[前端路的思考](./Grown/README.md)
+[前端之路的思考](./Grown/README.md)
 
 
 ### Blog
