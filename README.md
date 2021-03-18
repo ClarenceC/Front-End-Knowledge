@@ -51,9 +51,12 @@
 
 [性能](./Performance/Performance知识.md)
 
-### V8引擎
+### 浏览器
 
-[V8知识](./V8/V8引擎机制.md)
+
+
+[V8引擎](./browser/V8引擎机制.md)
+
 
 ### 版本控制
 
@@ -81,6 +84,10 @@
 
 [前端之路的思考](./Grown/README.md)
 
+
+### 周边知识
+
+[什么是W3C](./Other/什么是W3C.md)
 
 ### Blog
 [博客](./Blog/README.md)
