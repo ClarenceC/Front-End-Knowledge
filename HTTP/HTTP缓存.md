@@ -99,3 +99,4 @@ If-None-Match: W/"5a1cf09a-63c6"
 - [http缓存与cdn缓存配置指南](http://dopro.io/http-cache-and-cdn-cache.html)
 - [深入理解浏览器的缓存机制](https://mp.weixin.qq.com/s/HIUtWfQg4uwvYPy9zpESNQ)
 - [彻底弄懂HTTP缓存机制及原理](https://www.cnblogs.com/chenqf/p/6386163.html)
+- [一文读懂前端缓存](https://juejin.cn/post/6844903747357769742)
