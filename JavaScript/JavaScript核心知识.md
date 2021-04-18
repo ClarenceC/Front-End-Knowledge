@@ -13,7 +13,7 @@
 - [对象](./basic/对象.md)
 - [原型](./basic/原型.md)
 - [行为委托](./basic/行为委托.md)
-
+- [柯里化](./basic/柯里化.md)
 
 ### JavaScript 综合
 

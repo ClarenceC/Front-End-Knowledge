@@ -7,6 +7,11 @@ EventLoop 是指一套事件循环并发模型，因为 JavaScript 是一个单�
 
 #### 浏览器的 EventLoop
 
+在浏览器执行脚本代码的时候，会把同步任务都在主线程上面执行，形成一个执行栈，而异步就会加入任务队列里面，而异步任务会分成两类，宏任务和微任务：
+
+![images](./images/v2-d437562d6ea5874b3205701819bc1f27_1440w.jpg)
+
+
 宏任务(macrotasks):
 
 宏任务包括事件： `setTimeout`、`setInterval`、`setImmediate`、`requestAnimationFrame`、`I/O`、`Network`
@@ -15,9 +20,19 @@ EventLoop 是指一套事件循环并发模型，因为 JavaScript 是一个单�
 微任务(microtasks):
 微任务包括事件： `Promises.then`、`Promise.catch`、`Promise.finally`、`queueMicroTask`、`MutationObserver`
 
+### 流程
+
+1. V8 执行脚本，运行代码把同步代码放放主执行栈。
+1. 异步事件加入到任务集合。
+1. 从任务集合里取出一个宏任务并执行。
+1.
 
 ![images](./images/eventLoop.png)
-浏览器在 1 帧(1Frame)里, 运行 Event Loop 和 渲染流程
+上图是浏览器在 1 帧(1Frame)里, 运行 Event Loop 和 渲染流程图。
+
+
+
+
 
 基于[深入解析你不知道的 EventLoop 和浏览器渲染、帧动画、空闲回调（动图演示）](https://juejin.cn/post/6844904165462769678)整理
 
@@ -32,3 +47,5 @@ EventLoop 是指一套事件循环并发模型，因为 JavaScript 是一个单�
 [事件循环：微任务和宏任务](https://zh.javascript.info/event-loop)
 
 [微任务、宏任务与Event-Loop](https://juejin.cn/post/6844903657264136200)
+
+[js中的宏任务与微任务](https://zhuanlan.zhihu.com/p/78113300)
