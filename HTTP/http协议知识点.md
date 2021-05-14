@@ -19,4 +19,4 @@
 
 - [* Fundebug网站升级HTTP/2，真的变快了！](https://cloud.tencent.com/developer/article/1532169)
 - [* 你知道，HTTPS用的是对称加密还是非对称加密？](https://zhuanlan.zhihu.com/p/96494976)
-
+- [* （建议精读）HTTP灵魂之问，巩固你的 HTTP 知识体系](https://juejin.cn/post/6844904100035821575#heading-2)
