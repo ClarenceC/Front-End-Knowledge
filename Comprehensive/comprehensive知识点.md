@@ -26,8 +26,11 @@
 
 ### Git
 
-[Git知识](./Git/readme.md)
+[Git知识](../Git/readme.md)
 
 ### 服务器部署
 [* 【你应该了解的】详尽&全面的前端部署（从零起步，前端上线不用愁）](https://juejin.cn/post/6844904032218120200)
+
 [* 从 0 开始了解 Docker](https://juejin.cn/post/6844903591375814669)
+
+[* 如何使用 docker 部署前端应用](https://juejin.cn/post/6844903793348329486)

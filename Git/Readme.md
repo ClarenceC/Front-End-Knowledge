@@ -16,3 +16,5 @@
 [* 三年 Git 使用心得 & 常见问题整理](https://juejin.im/post/6844904191203213326?utm_source=gold_browser_extension)
 
 [* Commit message 和 Change log 编写指南](http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html)
+
+[*【Git】：git rebase和git merge有什么区别？](https://joyohub.com/2020/04/06/git-rebase/)
