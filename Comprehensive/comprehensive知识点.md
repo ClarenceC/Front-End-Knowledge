@@ -34,3 +34,7 @@
 [* 从 0 开始了解 Docker](https://juejin.cn/post/6844903591375814669)
 
 [* 如何使用 docker 部署前端应用](https://juejin.cn/post/6844903793348329486)
+
+
+### Linux
+[* Linux 6种日志查看方法，不会看日志会被鄙视的](https://cloud.tencent.com/developer/article/1579977)

@@ -15,3 +15,11 @@
 [--save-dev 与 －－save区别](https://segmentfault.com/q/1010000005163089)
 
 [* npm scripts 使用指南](http://www.ruanyifeng.com/blog/2016/10/npm_scripts.html)
+
+[* Node.js 调试指南](https://github.com/nswbmw/node-in-debugging)
+
+
+### Node 优化
+
+[* 你不知道的Node.js性能优化](https://zhuanlan.zhihu.com/p/50055740)
+[* 如何进行 GC 调优提升 Node 应用性能](https://segmentfault.com/a/1190000016764847)
