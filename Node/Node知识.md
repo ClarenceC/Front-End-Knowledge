@@ -23,3 +23,4 @@
 
 [* 你不知道的Node.js性能优化](https://zhuanlan.zhihu.com/p/50055740)
 [* 如何进行 GC 调优提升 Node 应用性能](https://segmentfault.com/a/1190000016764847)
+[* 如何分析 Node.js 中的内存泄漏](https://zhuanlan.zhihu.com/p/25736931)
