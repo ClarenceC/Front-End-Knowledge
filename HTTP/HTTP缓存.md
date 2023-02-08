@@ -35,6 +35,8 @@
 
 浏览器对于缓存的处理是根椐第一次请求资源时返回的响应头来确定的。分为强缓存阶段、启发式缓存阶段、协商缓存阶段。
 
+![Cache](./images/cache.awebp)
+
 - 强缓存阶段
 
 ```js
@@ -54,6 +56,9 @@ Vary:Accept-Encoding
 2. `Expires` 也是旧版 HTTP/1.0 设定过期日期时间。版本高优先原理，`max-age > Expires`
 3. `Pragma` 旧版 HTTP/1.0 设定缓存模式。版本高优先原理，`Cache-Control > Pargma`
 4. `Date` 具体创建报文日期时间。
+5. `Cache-Control:no-store` 表示任何情况下都不保留缓存。目的是防止释放或保留敏感信息等场景。
+6. `Cache-Control:must-revaliate` 表示只需要在认为陈旧资料时重新验证
+7. `Cache-Control:no-cache` 的时候一般会附带 `Pargma: no-cache`, 表示缓存过期需要重新请求服务器协商缓存拿取缓存。这个时候和 `Cache-Control: max-age=0, must-revaliate` 的意思差不多。
 
 - 启发式缓存阶段
 
